@@ -1,4 +1,4 @@
-# ONNX Operators Special Interest Group (SIG)
+# ONNX Converters Special Interest Group (SIG)
 
 This is the working repo for the converters special interest group (SIG). 
 This repo contains all the artifacts, materials, meeting notes and proposals regarding evolution of converters in ONNX. Feedbacks and contributions are welcome.
