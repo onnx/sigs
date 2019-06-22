@@ -1,7 +1,7 @@
 # Best practices for SIGs
 
 ## Scheduling meetings
-ONNX has a global community. To accomodate different geographies, ope or China can also attend. Unfortunately there isn't a single time that accommodates everyone, so may need to alternate.
+ONNX has a global community so SIG chairs should schedule meetings to accomodate different geographies. Unfortunately there isn't a single time that accommodates everyone in the world. Depending on the participants in the group, a specific time may be better for most people or meeting times may need to be alternated to give different geographies a chance to participate at reasonable times.
 
 ## Documents and artifacts
 Files that are specific to the operation of the SIG (such as meeting notes, rules, etc) should be kept in the "sigs" repository in the directory for the SIG. Workings drafts can also be maintained here until they are ready to be submitted to the main repos for broader review.
