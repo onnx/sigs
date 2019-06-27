@@ -17,3 +17,8 @@ This is the working repo for the operators special interest group (SIG). This re
 
 * Gitter channel https://gitter.im/onnx/operators
 * Documents and artifacts: https://github.com/onnx/sigs/tree/master/operators
+
+# Meeting notes
+
+* [Tuesday June 6, 2019](https://github.com/onnx/sigs/blob/master/operators/meetings/001-20190611.md)
+* [Wednesday June 26, 2019](https://github.com/onnx/sigs/blob/master/operators/meetings/002-20190626.md)
