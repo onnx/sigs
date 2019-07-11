@@ -18,3 +18,8 @@ This repo contains all the artifacts, materials, meeting notes and proposals reg
 
 * Gitter channel https://gitter.im/onnx/converters
 * Documents and artifacts: https://github.com/onnx/sigs/tree/master/converters
+
+# Meeting notes
+
+* [Wednesday July 10, 2019](https://github.com/onnx/sigs/blob/master/converters/meetings/001-20190710.md)
+
