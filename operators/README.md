@@ -22,3 +22,4 @@ This is the working repo for the operators special interest group (SIG). This re
 
 * [Tuesday June 6, 2019](https://github.com/onnx/sigs/blob/master/operators/meetings/001-20190611.md)
 * [Wednesday June 26, 2019](https://github.com/onnx/sigs/blob/master/operators/meetings/002-20190626.md)
+* [Thursday July 11, 2019](https://github.com/onnx/sigs/blob/master/operators/meetings/003-20190711.md)
