@@ -7,7 +7,7 @@ In this document, we describe the process of accepting a new proposed operator a
 Adding new operator to ONNX is vital to keep up with latest model architectures and to keep ONNX standard relevant.
 
 ## Accepting new operator
-The goal of ONNX standard isn�t to implement every possible existing operator from all available frameworks. The goal is to cover most models and keep evolving ONNX to cover future models.
+The goal of ONNX standard isn't to implement every possible existing operator from all available frameworks. The goal is to cover most models and keep evolving ONNX to cover future models.
 
 ### Proposing a new operator
 In order to propose a new operator, the following is needed:
