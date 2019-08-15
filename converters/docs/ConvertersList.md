@@ -1,5 +1,5 @@
 # Define converter
-    An ONNX converter is a software component that converts models from a ML/DNN framework (or backend?) to the ONNX format, or vice versa.
+An ONNX converter is a software component that converts models from a ML/DNN framework to the ONNX format, or vice versa.
 
 # List of converters
 | Framework(/Backend?)        | Exporter (to ONNX)  | Importer (to framwork) |
@@ -23,10 +23,8 @@
 |SAS|https://github.com/sassoftware/python-dlpy|https://github.com/sassoftware/python-dlpy|
 |Scikit-Learn|https://github.com/onnx/sklearn-onnx||
 |SIGNA (Apache)|https://github.com/apache/incubator-singa/blob/master/doc/en/docs/installation.md|https://github.com/apache/incubator-singa/blob/master/doc/en/docs/installation.md|
-|SNPE (Qualcomm)||https://developer.qualcomm.com/docs/snpe/model_conv_onnx.html|
 |Spark ML|https://github.com/onnx/onnxmltools||
 |Tensorflow|https://github.com/onnx/tensorflow-onnx|https://github.com/onnx/onnx-tensorflow|
-|Windows ML||https://docs.microsoft.com/en-us/windows/ai/windows-ml/release-notes|
 |XGBoost|https://github.com/onnx/onnxmltools||
 
 # List of non-converters (convert ONNX to run on backend)
@@ -37,6 +35,7 @@
 |nGraph|https://github.com/NervanaSystems/ngraph-onnx|
 |ONNX.js|https://github.com/microsoft/onnxjs|
 |ONNX Runtime|https://github.com/microsoft/onnxruntime|
+|SNPE (Qualcomm)|https://developer.qualcomm.com/docs/snpe/model_conv_onnx.html|
 |TensorRT|https://github.com/onnx/onnx-tensorrt|
-
+|Windows ML|https://docs.microsoft.com/en-us/windows/ai/windows-ml/release-notes|
 
