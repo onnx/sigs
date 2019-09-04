@@ -2,7 +2,7 @@
 An ONNX converter is a software component that converts models from a ML/DNN framework to the ONNX format, or vice versa.
 
 # List of converters
-| Framework(/Backend?)        | Exporter (to ONNX)  | Importer (to framwork) |
+| Framework        | Exporter (to ONNX)  | Importer (to framework) |
 | -------------- |:------------------:|:------------------:|
 |Caffe||https://github.com/MTlab/onnx2caffe|
 |Caffe2|https://github.com/pytorch/pytorch/tree/master/caffe2/python/onnx|https://github.com/pytorch/pytorch/tree/master/caffe2/python/onnx|
@@ -37,5 +37,6 @@ An ONNX converter is a software component that converts models from a ML/DNN fra
 |ONNX Runtime|https://github.com/microsoft/onnxruntime|
 |SNPE (Qualcomm)|https://developer.qualcomm.com/docs/snpe/model_conv_onnx.html|
 |TensorRT|https://github.com/onnx/onnx-tensorrt|
+|TVM|https://docs.tvm.ai/tutorials/frontend/from_onnx.html|
 |Windows ML|https://docs.microsoft.com/en-us/windows/ai/windows-ml/release-notes|
 
