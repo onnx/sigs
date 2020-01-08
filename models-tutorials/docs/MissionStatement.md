@@ -1,14 +1,14 @@
 # Priorities and Mission Statement
-#### Model Zoo and Tutorial SIG
+#### ONNX Model Zoo and Tutorials SIG
 #### Vinitra Swamy
 
-This Special Interest Group (SIG) for the Open Neural Network eXchange (ONNX) Project is responsible for the development and maintenance of the pretrained model zoo and tutorials surrounding the ONNX ecosystem. 
+This document outlines the mission statement and core priorities of the ONNX Model Zoo and Tutorials Special Interest Group (SIG).
 
 ### Mission Statement
 
 The Model Zoo and Tutorials SIG is responsible for the comprehensive collection of state of the art ONNX models from a variety of sources and making it easy for users to get started with ONNX and the ecosystem around it. Concretely, this SIG has ownership over the [onnx/tutorials](https://github.com/onnx/tutorials) and [onnx/models](https://github.com/onnx/models) repositories, as well as tutorials located in the [onnx/onnx-docker](https://github.com/onnx/onnx-docker) repository, instructive blog posts and conference participation. 
 
-We intend to focus on the following core priorities in the new year.
+We intend to focus on the following priorities in the new year.
 
 ## Model Zoo
 
