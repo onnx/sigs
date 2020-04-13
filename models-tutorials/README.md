@@ -22,3 +22,4 @@ Documents and artifacts: https://github.com/onnx/sigs/tree/master/models-tutoria
 [Mission Statement](docs/MissionStatement.md)
 
 [Thurday January 30, 2020](meetings/001-20200130.md)
+[Thurday March 09, 2020](meetings/002-20200309.md)
