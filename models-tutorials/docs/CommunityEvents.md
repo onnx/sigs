@@ -7,22 +7,20 @@
 2:15 PM (EDT): Svetlana Levitan presented "Open standards for machine learning model deployment"
 
 
-### [San Francisco Python Meetup Group: Learn more about continuous deployment](
-https://www.meetup.com/sfpython/events/xkwxvqybchbrb/)
-** May 13, 2020 - online**
+### [San Francisco Python Meetup Group: Learn more about continuous deployment](https://www.meetup.com/sfpython/events/xkwxvqybchbrb/)
+**May 13, 2020 - online**
 7 pm PDT: Svetlana Levitan presented on open standards for machine learning model deployment.
 
 
-### [Confer conf: Norwegian conference with focus on Data Science, AI, ML & Cloud](
- https://confer.no/)
-** June 2, 2020 - online**
+### [Confer conf: Norwegian conference with focus on Data Science, AI, ML & Cloud](https://confer.no/)
+**June 2, 2020 - online**
 Svetlana Levitan presents on open standards for machine learning model deployment.
  
 
-### [Women in Data Science (WIDS 2020), Silicon Valley](https://events.sap.com/us/wids-2020-sv/en/home)
-**(Postponed from March) June 4, 2020 - SAP Labs, Building 1, 3410 Hillview Ave, Palo Alto, CA 94304**
+### [Women in Data Science (WIDS 2020), Silicon Valley, USA](https://events.sap.com/us/wids-2020-sv/en/home)
+**June 4, 2020 - Online, SAP Labs**
 
-ONNX Workshop - Vinitra Swamy, Cecilia Liu, Ashwini Khade  
+ONNX Workshop - Vinitra Swamy, Cecilia Liu  
 12:30 - 1:30 PM: Open Neural Network eXchange (ONNX): Accelerate and operationalize models for deployment
 
 ONNX Talk - Faith Xu, Emma Ning  
