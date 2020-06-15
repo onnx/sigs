@@ -1,0 +1,59 @@
+# Monday, June 15, 2020, 1 PM PST
+
+## Agenda / Notes
+* [Git LFS](https://github.com/onnx/models/issues/271) - all models have been migrated to Git LFS successfully! 
+  * This enables a one line download of all models
+  * This also enables the zoo to maintain the models itself without relying on different user repositories
+  * Discussion: bandwidth / estimating usage (Prasanth)
+* [Model Zoo CI] PR in progress
+  * [PR #307](https://github.com/onnx/models/pull/307)
+  * Feedback will be helpful!
+  * Azure Pipelines, but considering moving to Github actions because of Git LFS bandwidth usage
+  * Enabling caching to make sure only PR relevant models are pulled each time
+* Upcoming model additions
+  * EfficientNet-Lite (in progress)
+    * Tutorial from Guenther from [Tensorflow-ONNX](https://github.com/onnx/tensorflow-onnx/blob/master/tutorials/efficientnet-lite.ipynb)
+  * New models being added by Kundana, Shirley, and Jennifer
+    * DeepVoice
+    * VisualQuestionAnswering Model
+    * YoloV4
+    * EfficientNet-Det / EfficientNet-Edge / SSD MobileNet v2 based on tf2onnx tutorials
+* Community events
+  * WIDS 2020 Workshop went well! Recordings can be found at [SAP WIDS 2020 website](https://events.sap.com/us/wids-2020-sv/en/home)
+* Deprecate Checksums 
+  * [PR #290](https://github.com/onnx/models/pull/290) addresses some checksum removal and the rest have been removed through the Git LFS migration process.
+* User Traffic Analysis / Analytics (RepoTraffic, RepoAnalytics)
+  * Tracked in issue [#51](https://github.com/onnx/sigs/issues/51)
+* Progress on last month's action items:
+  * ~Continue moving models in model zoo to Git LFS~
+    * finished, tracked in #271
+  * ~Formalize CI Plan for Model Zoo~
+    * https://github.com/onnx/sigs/issues/53
+    * Base requirement: run ONNX checker on each model.
+  * ~Model Zoo analytics – how to ensure models are useful?~
+    * https://repo-analytics.github.io/onnx/models
+    * https://repo-analytics.github.io/onnx/tutorials
+  * ~Guidelines for addition of tutorials~
+    * ~merge Model Zoo addition guidelines~ - updated Pull Request Template
+  * Proposal to deal with versioning of Model Zoo models
+     * https://github.com/onnx/sigs/issues/52
+  * New Models
+     * RetinaNet has been merged, thanks Negin!
+     * EfficientNet in progress
+     * New models forthcoming
+* Formalize new action items
+  * Look into adding new ONNX Runtime training models into the model zoo
+
+## Attendees 
+* Vinitra Swamy (Microsoft)
+
+
+## Recorded Meeting
+TBA
+
+## Action Items
+* Make progress on new models (2-3 PRs at least)
+* Check in Model Zoo CI and resolve caching problems
+
+## Next Meeting
+mid July
