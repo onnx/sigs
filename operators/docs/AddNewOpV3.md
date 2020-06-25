@@ -13,21 +13,21 @@
 
 # Proposing and submitting a new operator or function to ONNX <a name="new_operator_or_function"></a>
 
-Operators are the basic building blocks that define ONNX model. With a rich set of operators, ONNX can describe most DNN and ML models from various frameworks. Functions allow for composing complex operators from more primitive operators. The ONNX specification includes a core set of operators that enable many models. It is a non-goal to add all possible operators, however more operators are added as needed to cover evolving needs.
+Operators are the basic building blocks that define ONNX model. With a rich set of operators, ONNX can describe most DNN and ML models from various frameworks. Functions allow for composing complex operators from more primitive operators, without increasing the number of operators in ONNX. ONNX specification includes a core set of operators that enable many models. It is a non-goal to add all possible operators, however, more operators are added as needed to cover evolving needs.
 
 In this document, we describe the process of accepting a new proposed operator and how to properly submit a new operator as part of ONNX standard. The goal is to improve on what we currently have based on our experience, learning and feedbacks we gathered from the community.
 
 ## 4 steps to add an operator <a name="steps_to_add_an_operator"></a>
 1. Decide what to propose
-2. Code style and conventions
+2. Coding style and conventions
 3. Submit PR for new operator/function
 4. Review of PR by Operators SIG
 5. Merging of PR and inclusion in next ONNX release
 
 ## Step 1: Proposing a new operator/function <a name="step1_new_operator_or_function"></a>
 In order to propose a new operator/function, the following is needed:
-1. If the operator can be composed by other ONNX operators, then it should be a function and not an operator (we have a function in ONNX : MeanVarianceNormalization).
-2. If the operators can be split to new primitives, propose those primitives instead and make the operator a function.
+1. If the operator can be composed by other ONNX operators, then it should be a function and not an operator.
+2. If the operator can be split to new primitives, propose those primitives instead and make the operator a function.
 3. Based on a model. This will help us understand the usage and that it solves an actual problem. For the case of the model being private or IP and can't be shared, the operator doesn't belong to the standard and should be implemented as custom OP.
 4. The operator needs to be implemented by at-least one (well-known) framework. This help us to understand the actual behavior of the operator and its usage.
 5. Operator signature and behavior:
@@ -36,14 +36,14 @@ In order to propose a new operator/function, the following is needed:
 6. Prefer attributes over inputs.
 
 ## Step 2: Code Conventions <a name="step2_code_conventions"></a>
-1. To maintain consistency in operator signatures, we use the following principles:
-    1.  All attribute names should be lower case and use underscores when it helps with readability
-    2. Any input/output represented by a single letter is capitalized (i.e. X)
-    3. Any input/output represented by a full word or multiple words is all lower case and uses underscores when it helps with readability
-    4. Any input/output representing a bias tensor will utilize the name "B"
-    5. Any input/output representing a weight tensor will utilize the name “W”
-    6. “axes” is used when an input, output or attribute is representing multiple axes
-    7. “axis” is used when an input, output or attribute is representing a single axis
+To maintain consistency in operator signatures, we use the following principles:
+1. All attribute names should be lower case and use underscores when it helps with readability
+2. Any input/output represented by a single letter is capitalized (i.e. X)
+3. Any input/output represented by a full word or multiple words is all lower case and uses underscores when it helps with readability
+4. Any input/output representing a bias tensor will utilize the name "B"
+5. Any input/output representing a weight tensor will utilize the name “W”
+6. “axes” is used when an input, output or attribute is representing multiple axes
+7. “axis” is used when an input, output or attribute is representing a single axis
 
 ## Step 3: Submit PR <a name="step3_new_operator_or_function"></a>
 Once the criteria of proposing new operator/function has been satisfied, you will need to submit a PR for the new operator/function. Here the expectation of what the PR should include. The reviewer is expected to verify the completeness of the PR before signoff.
