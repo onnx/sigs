@@ -1,0 +1,96 @@
+# This file lists the Contributors and Approvers for each SIG.
+# Permissions to GitHub repos are managed through teams in GitHub, which unfortunately are not
+# visible to everyone. For transparency, this file lists the members of the GitHub teams defined
+# for the ONNX organization.
+# 
+# To recommend someone be added as a Contributor or Approver, submit a PR to update this file
+# along with the justification. Once approved per the ONNX open governance guidelines, a 
+# Steering Committee admin will update the GitHub teams configuration and merge the PR.
+
+
+SIG-archinfra:
+    - zrphercule
+    - spandantiwari
+    - raymondxyang
+    - yuslepukhin
+    - faxu
+    - wschin
+    - kevinch-nv
+    - winnietsang
+    - chinhuang007
+    releasemgrs:
+    mlir:
+        - migueldeicaza
+        - doru1004
+        - yuanbyu
+        - tjingrant
+        - AlexandreEichenberger
+        - caoimhinuibrian
+        - chentong319
+    approvers:
+        - linkerzhang
+        - askhade
+        - ebarsoum
+        - bddppq
+        - gramalingam
+        - jspisak
+        - prasanthpul
+        - houseroad
+
+
+SIG-operators:
+    - shinh
+    - daquexian
+    approvers:
+        - wschin
+        - postrational
+        - linkerzhang
+        - ebarsoum
+        - bddppq
+        - gramalingam
+        - houseroad
+
+
+SIG-converters:
+    - prasanthpul
+    - tjingrant
+    approvers:
+        - wschin
+        - wenbingl
+        - guschmue
+
+
+SIG-modelstutorials:
+    - askhade
+    - faxu
+    - ankkhedia
+    - EmmaNingMS
+    approvers:
+        - ebarsoum
+        - vinitra
+        - abhinavs95
+        - prasanthpul
+        - houseroad
+
+
+SIG-chairs:
+    - postrational
+    - linkerzhang
+    - ebarsoum
+    - chinhuang007
+    - vinitra
+    - guschmue
+    - houseroad
+
+
+WG-chairs:
+    - chinhuang007
+    - sveta-levitan
+
+
+Steering-Committee:
+    - prasanthpul
+    - harryskim
+    - jimspohrer
+    - joohoon
+    - szha
