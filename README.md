@@ -2,12 +2,15 @@
 
 As described in the ONNX [governance](https://github.com/onnx/onnx/tree/master/community#sig---special-interest-groups), Special Interest Groups (SIGs) are persistent groups responsible for specific parts of the project. SIGs have open and transparent proceedings to develop goals and implement code contributions. SIGs are also responsible for ongoing maintenance of the code in their areas.
 
-## Joining a SIG
+SIG artifacts, including membership list and meeting notes, are stored in this repository.
+
+## Participating
 If you are interested in participating, please [join the discussion](https://gitter.im/onnx) in the respective Gitter room.
 
 You can find the schedule of SIG meetings on the [LF AI calendar](https://wiki.lfai.foundation/pages/viewpage.action?pageId=18481196)
 
-SIG artifacts, including meetings, are stored in this repository.
+## SIG members
+The current list of Contributors and Approvers in the SIGs are listed in the [CONTRIBUTORS](CONTRIBUTORS) file. The file also describes the process for updating the list.
 
 ## Current SIGs
 
