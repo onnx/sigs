@@ -18,6 +18,8 @@ SIG-archinfra:
     - kevinch-nv
     - winnietsang
     - chinhuang007
+    - jcwchen
+    - vinitra
     releasemgrs:
     mlir:
         - migueldeicaza
