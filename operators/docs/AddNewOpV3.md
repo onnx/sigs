@@ -65,7 +65,11 @@ Once the criteria of proposing new operator/function has been satisfied, you wil
     1. Running [the script](https://github.com/onnx/onnx/blob/master/tools/update_doc.sh)
 to update the doc and generate the test data.
 6. Test functions.
-    1. In the case of functions, 
+    1. In the case of functions, the test data generator generates two test instances from each test case,
+    one for a model containing the function (call) and one for a model containing the function body.
+    The test case containing the function body should be tested with an existing backend as a sanity
+    check for the function-body definition. (Since the CI infrastructure does not currently use any
+    backend or reference-implementation, this test needs to be done manually.)
 7. Shape Inference function 
     1. Provide a shape inference function in cases where it is meaningful and applicable.
     2. In cases where shape inference is not possible, it must have logic to perform 
