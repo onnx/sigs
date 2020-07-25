@@ -64,7 +64,9 @@ Once the criteria of proposing new operator/function has been satisfied, you wil
 5. Update the documentation and generate the test data.
     1. Running [the script](https://github.com/onnx/onnx/blob/master/tools/update_doc.sh)
 to update the doc and generate the test data.
-6. Shape Inference function 
+6. Test functions.
+    1. In the case of functions, 
+7. Shape Inference function 
     1. Provide a shape inference function in cases where it is meaningful and applicable.
     2. In cases where shape inference is not possible, it must have logic to perform 
 rank inference at the very least (adding right amount of dimensions to the output shape)
