@@ -7,7 +7,7 @@ The Model Zoo and Tutorials SIG is responsible for the comprehensive collection 
 Feedback and contributions are welcome.
 
 # Slack channel
-Please sign up at https://slack.lfai.foundation/ and join [onnx-archinfra](https://lfaifoundation.slack.com/archives/C018RE2BRBL) channel.
+Please sign up at https://slack.lfai.foundation/ and join [onnx-modelzoo](https://lfaifoundation.slack.com/archives/C018RE2BRBL) channel.
 
 # SIG Leads
 Vinitra Swamy (Microsoft)
