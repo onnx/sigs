@@ -2,6 +2,9 @@
 
 This is the working repo for the operators special interest group (SIG). This repo contains all the artifacts, materials, meeting notes and proposals regarding operators evolution in ONNX standard. Feedbacks and contributions are welcome.
 
+# Slack channel
+Please sign up at https://slack.lfai.foundation/ and join [onnx-operators](https://lfaifoundation.slack.com/archives/C018Y2RAY4C) channel.
+
 # SIG Leads
 
 * Emad Barsoum (Microsoft)
