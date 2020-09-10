@@ -7,7 +7,7 @@ The Model Zoo and Tutorials SIG is responsible for the comprehensive collection 
 Feedback and contributions are welcome.
 
 # SIG Leads
-**Wenbing Li (Microsoft)**: September 2020 - Current
+**Wenbing Li (Microsoft)**: September 2020 - Current  
 **Vinitra Swamy (Microsoft)**: January 2020 - September 2020
 
 # Logistics
@@ -21,9 +21,12 @@ Documents and artifacts: https://github.com/onnx/sigs/tree/master/models-tutoria
 
 # Meeting notes
 [Mission Statement](docs/MissionStatement.md)
+[Community Events](docs/CommunityEvents.md)
+[Proposed Models](docs/ProposedModels.md)
+[ONNX Workshop Update](docs/onnx-workshop-modelzoo-SIG-update.pdf)
 
 [January 30, 2020](meetings/001-20200130.md)  
-[March 09, 2020](meetings/002-20200309.md)  
-[April 13, 2020](meetings/003-20200413.md)  
-[June 15, 2020](meetings/004-20200615.md)
+[March 09, 2020](meetings/002-20200309.md) 
+[April 13, 2020](meetings/003-20200413.md)
+[June 15, 2020](meetings/004-20200615.md)  
 [August 14, 2020](meetings/005-20200814.md)
