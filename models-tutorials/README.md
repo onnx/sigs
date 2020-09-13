@@ -6,6 +6,9 @@ The Model Zoo and Tutorials SIG is responsible for the comprehensive collection 
 
 Feedback and contributions are welcome.
 
+# Slack channel
+Please sign up at https://slack.lfai.foundation/ and join [onnx-modelzoo](https://lfaifoundation.slack.com/archives/C018RE2BRBL) channel.
+
 # SIG Leads
 **Wenbing Li (Microsoft)**: September 2020 - Current  
 **Vinitra Swamy (Microsoft)**: January 2020 - September 2020
