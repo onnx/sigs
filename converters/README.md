@@ -3,6 +3,9 @@
 This is the working repo for the converters special interest group (SIG). 
 This repo contains all the artifacts, materials, meeting notes and proposals regarding evolution of converters in ONNX. Feedbacks and contributions are welcome.
 
+# Slack channel 
+Please sign up at https://slack.lfai.foundation/ and join [onnx-converters](https://lfaifoundation.slack.com/archives/C0171FSKZBN) channel.
+ 
 # SIG Leads
 
 * Chin Huang (Ibm)
