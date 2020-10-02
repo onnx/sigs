@@ -20,6 +20,7 @@ SIG-archinfra:
     - chinhuang007
     - jcwchen
     - vinitra
+    - skottmckay
     releasemgrs:
     mlir:
         - migueldeicaza
@@ -43,6 +44,8 @@ SIG-archinfra:
 SIG-operators:
     - shinh
     - daquexian
+    - hariharans29
+    - skottmckay
     approvers:
         - wschin
         - postrational
