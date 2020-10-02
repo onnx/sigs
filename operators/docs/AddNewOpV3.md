@@ -1,7 +1,7 @@
 # Table of Contents
 1. [New Operator or Function](#new_operator_or_function)
     1. [Step 1: Proposing a new operator/function](#step1_new_operator_or_function)
-    2. [Step 2: Code Conventions](#step2_code_conventions)
+    2. [Step 2: Coding Conventions](#step2_coding_conventions)
     3. [Step 3: Submit PR](#step3_new_operator_or_function)
     4. [Step 4: PR Review by Operators SIG](#step4_new_operator_or_function)
     5. [Step 5: ONNX release](#step5_new_operator_or_function)
@@ -18,8 +18,8 @@ Operators are the basic building blocks that define ONNX model. With a rich set 
 In this document, we describe the process of accepting a new proposed operator and how to properly submit a new operator as part of ONNX standard. The goal is to improve on what we currently have based on our experience, learning and feedbacks we gathered from the community.
 
 ## 4 steps to add an operator <a name="steps_to_add_an_operator"></a>
-1. Decide what to propose
-2. Coding style and conventions
+1. Draft your proposal
+2. Follow coding conventions
 3. Submit PR for new operator/function
 4. Review of PR by Operators SIG
 5. Merging of PR and inclusion in next ONNX release
@@ -28,43 +28,49 @@ In this document, we describe the process of accepting a new proposed operator a
 In order to propose a new operator/function, the following is needed:
 1. If the operator can be composed by other ONNX operators, then it should be a function and not an operator.
 2. If the operator can be split to new primitives, propose those primitives instead and make the operator a function.
-3. Based on a model. This will help us understand the usage and that it solves an actual problem. For the case of the model being private or IP and can't be shared, the operator doesn't belong to the standard and should be implemented as custom OP.
-4. The operator needs to be implemented by at-least one (well-known) framework. This help us to understand the actual behavior of the operator and its usage.
+3. The operator should be based on a popular model architecture to validate that this operator solves an actual problem. In case, the model is private or IP and can't be shared, the operator doesn't belong to the standard and should be implemented as custom OP.
+4. The operator should be implemented by at-least one (well-known) framewor to validate the actual behavior of the operator and its usage.
 5. Operator signature and behavior:
     1. If the operator is available in numpy, prefer numpy semantics.
-    2. If the operator is available in more than one frameworks, make sure that your design is general and cover those frameworks.
+    2. If the operator is available in more than one frameworks, make sure that your design is general and covers those frameworks.
 6. Prefer attributes over inputs.
 
-## Step 2: Code Conventions <a name="step2_code_conventions"></a>
-To maintain consistency in operator signatures, we use the following principles:
-1. All attribute names should be lower case and use underscores when it helps with readability
-2. Any input/output represented by a single letter is capitalized (i.e. X)
-3. Any input/output represented by a full word or multiple words is all lower case and uses underscores when it helps with readability
-4. Any input/output representing a bias tensor will utilize the name "B"
-5. Any input/output representing a weight tensor will utilize the name “W”
-6. “axes” is used when an input, output or attribute is representing multiple axes
-7. “axis” is used when an input, output or attribute is representing a single axis
+## Step 2: Codeing Conventions <a name="step2_codeing_conventions"></a>
+To maintain consistency in operator signatures, follow these principles:
+1. All attribute names should be lower case and use underscores when applicable
+2. Any input/output represented by a single letter should be capitalized (i.e. X)
+3. Any input/output represented by a full word or multiple words should be all lower case and uses underscores between 2 words as this helps with readability
+4. Any input/output representing a bias tensor should utilize the name "B"
+5. Any input/output representing a weight tensor should utilize the name “W”
+6. “axes” should be used when an input, output or attribute represents multiple axes
+7. “axis” should be used when an input, output or attribute represents a single axis
 
 ## Step 3: Submit PR <a name="step3_new_operator_or_function"></a>
-Once the criteria of proposing new operator/function has been satisfied, you will need to submit a PR for the new operator/function. Here the expectation of what the PR should include. The reviewer is expected to verify the completeness of the PR before signoff.
+Once the criteria of proposing new operator/function has been satisfied, submit a PR for the new operator/function. The PR should include the following (The reviewer is expected to verify the completeness of the PR before signoff).
 1. Description:
-    1. Write a detailed description about the operator, and its expected behavior. Pretty much, the description should be clear enough to avoid confusion between implementors.
+    1. Write a detailed description about the operator, and its expected behavior. The description should be clear enough to avoid confusion between implementors.
     2. Add an example in the description to illustrate the usage.
-    3. Add reference to the source of the operator in the corresponding framework in the description (if possible).
+    3. Add reference to the source of the operator in the original framework in the description.
     4. Write the mathematic formula or a pseudocode in the description. The core algorithm needs to be very clear.
-2. Write a reference implementation in Python, this reference implementation should cover all the expected behavior of the operator. Only in extremely rare case, we will waive this requirement.
+2. Write a reference implementation in Python, this reference implementation should cover all the expected behavior of the operator. Only in extremely rare case (with approval from Operator SIG), this requirement will be waived.
 3. Writing test:
     1. It should have the same coverage as the original framework.
-    2. Generate the test data from the original framework operator, the submission need to include the script that generated the test data and all its depencdencies.
-    3. The testing examples will be extracted to the doc. 
-    4. We also generate binary data for it. 
-    5. Example: https://github.com/onnx/onnx/blob/master/onnx/backend/test/case/node/abs.py
-4. Operator version: check out our
-[versioning doc](https://github.com/fdwr/onnx/blob/master/docs/Versioning.md#operator-versioning)    
+    2. Generate the test data from the original framework operator, the submission needs to include the script that generated the test data and all its depencdencies. (where will this script be checked in?)
+    3. The testing examples will be extracted to the doc.(explain this better? Its not clear what is expected here)
+    4. We also generate binary data for it. (what is the action item for the PR author? )
+    5. Example: https://github.com/onnx/onnx/blob/master/onnx/backend/test/case/node/abs.py (does this need to be as a separate bullet?)    
+4. Operator version: check out the 
+[versioning doc](https://github.com/fdwr/onnx/blob/master/docs/Versioning.md#operator-versioning)
 5. Update the documentation and generate the test data.
     1. Running [the script](https://github.com/onnx/onnx/blob/master/tools/update_doc.sh)
 to update the doc and generate the test data.
-6. Shape Inference function 
+6. Test functions.
+    1. In the case of functions, the test data generator generates two test instances from each test case,
+    one for a model containing the function (call) and one for a model containing the function body.
+    The test case containing the function body should be tested with an existing backend as a sanity
+    check for the function-body definition. (Since the CI infrastructure does not currently use any
+    backend or reference-implementation, this test needs to be done manually.)
+7. Shape Inference function 
     1. Provide a shape inference function in cases where it is meaningful and applicable.
     2. In cases where shape inference is not possible, it must have logic to perform 
 rank inference at the very least (adding right amount of dimensions to the output shape)
