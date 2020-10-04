@@ -23,6 +23,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-operators](https
 
 # Meeting notes
 
+* [Tuesday September 22, 2020](https://github.com/onnx/sigs/blob/master/operators/meetings/017-20200922.md)
 * [Friday July 24, 2020](https://github.com/onnx/sigs/blob/master/operators/meetings/016-20200724.md)
 * [Tuesday June 23, 2020](https://github.com/onnx/sigs/blob/master/operators/meetings/015-20200623.md)
 * [Wednesday April 29, 2020](https://github.com/onnx/sigs/blob/master/operators/meetings/014-20200429.md)
