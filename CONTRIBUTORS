@@ -30,6 +30,9 @@ SIG-archinfra:
         - AlexandreEichenberger
         - caoimhinuibrian
         - chentong319
+    optimizer:
+        - daquexian
+        - fumihwh
     approvers:
         - linkerzhang
         - askhade
