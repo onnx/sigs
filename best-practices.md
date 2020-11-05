@@ -9,7 +9,7 @@ Files that are specific to the operation of the SIG (such as meeting notes, rule
 ## Meeting notes
 Meeting notes must be kept for every meeting. Attendence should also be recorded as part of the notes. The file name should include the date to make it easy to find.
 
-### Meeting recording
+## Meeting recording
 At the discretion of the SIG chairs, meetings can optionally be recorded and published to the ONNX YouTube channel. We are not requiring this at this time but may do so in the future.
 
 ## Publish agenda ahead of meeting
@@ -17,3 +17,6 @@ SIG chairs must publish the agenda at least 2 days ahead of a meeting. The agend
 
 ## Publish meeting notes soon after meeting
 Notes should be published within a day of the meeting. Usually notes can be published the same day because the SIG chairs would be taking notes directly in the file that has the agenda.
+
+## Slack Channel
+SIG have slack channels as part of LF AI & Data.  SIG leaders and participants can use the slack channels to prepare for meetings, send reminders, help with above items, and more.
