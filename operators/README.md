@@ -7,18 +7,14 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-operators](https
 
 # SIG Leads
 
-* Emad Barsoum (Microsoft)
+* Ganesan "Rama" Ramalingam (Microsoft)
 * Michal Karzynski (Intel)
 
 # Logistics
 
 * SIG leads will drive the meeting.
-* Meeting annoucement will be posted in our gitter channel: https://gitter.im/onnx/operators
+* Meeting annoucement will be posted in our Slack channel: https://lfaifoundation.slack.com/archives/C018Y2RAY4C
 * Feedbacks and topic request are welcome by all.
-
-# Discussion
-
-* Gitter channel https://gitter.im/onnx/operators
 * Documents and artifacts: https://github.com/onnx/sigs/tree/master/operators
 
 # Meeting notes
