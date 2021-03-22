@@ -1,3 +1,5 @@
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
 # Define converter
 An ONNX converter is a software component that converts models from a ML/DNN framework to the ONNX format, or vice versa.
 

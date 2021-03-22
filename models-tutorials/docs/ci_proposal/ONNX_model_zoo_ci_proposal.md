@@ -1,3 +1,5 @@
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
 # ONNX Model Zoo CI Proposal
 
 
@@ -13,7 +15,7 @@ The test goal we want to achieve is to enable testing both the ONNX IR SPEC and 
 
 ## Design
 
-### Components: 
+### Components:
 <p align="center">
 	<img src="components.png" width="80%"/>
 </p>
@@ -40,7 +42,7 @@ The Continuous Integration process is the process for reviewing a proposed model
 <p align="center">
 	<img src="workflow.png" width="80%"/>
 </p>
-Once a new model submitted, an auto robot will pick up the job and launch a new task in the Model Zoo CI platform. Combining with the checking tools, the Compliance and legality of the ONNX model will be tested and the result will be returned to both the sides. 
+Once a new model submitted, an auto robot will pick up the job and launch a new task in the Model Zoo CI platform. Combining with the checking tools, the Compliance and legality of the ONNX model will be tested and the result will be returned to both the sides.
 
 The Performance of the model will also be tested after categorized into one specific scenario with test cases as an input. The baseline of the performance (minimum acceptable performance) will be discussed in the community.
 
@@ -51,14 +53,14 @@ If the model passed all tests, it will be promoted for further inspection, other
 ### Checking tools:
 The checking tools here refer to both ONNX IR SPEC checking tool and the model performance checking tool. The ONNX community should define the specific and precise IR/op/model SPEC and its official checking tools to ensure interoperability.
 
-For the ONNX IR SPEC checking tool. The existing checking tool is doing ir_version, op_set checking for attribute, node, graph and function based on ONNX IR SPEC. This checker can be the checker for the Model Zoo IR SPEC checker in the early versions. Some issues pointed out we need to categorize the checkee and specialize our checker to become more precise and enhance compatibility, this will be our further development. Another thing we want to mention is that if we can move the checker from the ONNX main repo to the Model Zoo repo, make it a compliance standard and performance baseline checking tool, it will standardize the ONNX format that every developer follows and be very beneficial to the whole ecosystem of the ONNX Community. It is long time effort and still far away, but we can discuss more details after the initial results come out. 
+For the ONNX IR SPEC checking tool. The existing checking tool is doing ir_version, op_set checking for attribute, node, graph and function based on ONNX IR SPEC. This checker can be the checker for the Model Zoo IR SPEC checker in the early versions. Some issues pointed out we need to categorize the checkee and specialize our checker to become more precise and enhance compatibility, this will be our further development. Another thing we want to mention is that if we can move the checker from the ONNX main repo to the Model Zoo repo, make it a compliance standard and performance baseline checking tool, it will standardize the ONNX format that every developer follows and be very beneficial to the whole ecosystem of the ONNX Community. It is long time effort and still far away, but we can discuss more details after the initial results come out.
 
 For the ONNX model functionality or performance checking, according to Alibaba team, they are working on an auto-gen test tools for ONNX, and scheduled to be open source by the end of April. A very promising project which can test the compliance and legality of their runtime for ONNX. Reuse or rewrite to make it a standard checking tools for all runtime for ONNX seems tempting. It will be better to discuss more detail or refer to after this tool become open sourced.
 
 
 
 ### Test cases:
-The use cases as well as the compliance checking tools depend on the community contribution. The test cases are mainly for the use of checking the functionality or performance of the model. To start our work, I suggest to focus one particular scenario first, eg. Image classification. One specific dataset with a clear target baseline benchmark, then we can gradually expand to other use cases. We can also use our proposed standardized checkers to ensure the compliance and legality since every test case must pass the checking process to be integrated. 
+The use cases as well as the compliance checking tools depend on the community contribution. The test cases are mainly for the use of checking the functionality or performance of the model. To start our work, I suggest to focus one particular scenario first, eg. Image classification. One specific dataset with a clear target baseline benchmark, then we can gradually expand to other use cases. We can also use our proposed standardized checkers to ensure the compliance and legality since every test case must pass the checking process to be integrated.
 
 For this part, we are looking forward to hear more from you.
 

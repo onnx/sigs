@@ -1,3 +1,5 @@
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
 # Priorities and Mission Statement
 #### ONNX Model Zoo and Tutorials SIG
 #### Vinitra Swamy
@@ -6,7 +8,7 @@ This document outlines the mission statement and core priorities of the ONNX Mod
 
 ### Mission Statement
 
-The Model Zoo and Tutorials SIG is responsible for the comprehensive collection of state of the art ONNX models from a variety of sources and making it easy for users to get started with ONNX and the ecosystem around it. Concretely, this SIG has ownership over the [onnx/tutorials](https://github.com/onnx/tutorials) and [onnx/models](https://github.com/onnx/models) repositories, as well as tutorials located in the [onnx/onnx-docker](https://github.com/onnx/onnx-docker) repository, instructive blog posts and conference participation. 
+The Model Zoo and Tutorials SIG is responsible for the comprehensive collection of state of the art ONNX models from a variety of sources and making it easy for users to get started with ONNX and the ecosystem around it. Concretely, this SIG has ownership over the [onnx/tutorials](https://github.com/onnx/tutorials) and [onnx/models](https://github.com/onnx/models) repositories, as well as tutorials located in the [onnx/onnx-docker](https://github.com/onnx/onnx-docker) repository, instructive blog posts and conference participation.
 
 We intend to focus on the following priorities in the new year.
 
@@ -24,7 +26,7 @@ A successful CI pipeline has the base requirement of at least running the ONNX m
 
 ### 3. Add more models
 
-We currently have ~30 models in the ONNX model zoo. Over the last year, there has not been a dedicated effort into substantially increasing that number. One of the incentives for a new user to join ONNX is the ease of getting started with the state-of-the-art – this involves dedicating time to reach out to relevant model authors and sending requests to convert and publish their models.  
+We currently have ~30 models in the ONNX model zoo. Over the last year, there has not been a dedicated effort into substantially increasing that number. One of the incentives for a new user to join ONNX is the ease of getting started with the state-of-the-art – this involves dedicating time to reach out to relevant model authors and sending requests to convert and publish their models.
 
 ### 4. Regulate model quality
 
