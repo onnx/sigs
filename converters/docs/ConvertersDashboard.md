@@ -1,3 +1,5 @@
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
 # Coverage reports for importers (convert ONNX to framework)
 | Converter     | ONNX Version  | Framework Version | Detailed Report |
 | -------------- |:------------------:|:------------------:|:------------:|

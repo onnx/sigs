@@ -1,3 +1,5 @@
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
 # Table of Contents
 1. [New Operator or Function](#new_operator_or_function)
     1. [Step 1: Proposing a new operator/function](#step1_new_operator_or_function)
@@ -58,8 +60,8 @@ Once the criteria of proposing new operator/function has been satisfied, submit 
     2. Generate the test data from the original framework operator, the submission needs to include the script that generated the test data and all its depencdencies. (where will this script be checked in?)
     3. The testing examples will be extracted to the doc.(explain this better? Its not clear what is expected here)
     4. We also generate binary data for it. (what is the action item for the PR author? )
-    5. Example: https://github.com/onnx/onnx/blob/master/onnx/backend/test/case/node/abs.py (does this need to be as a separate bullet?)    
-4. Operator version: check out the 
+    5. Example: https://github.com/onnx/onnx/blob/master/onnx/backend/test/case/node/abs.py (does this need to be as a separate bullet?)
+4. Operator version: check out the
 [versioning doc](https://github.com/fdwr/onnx/blob/master/docs/Versioning.md#operator-versioning)
 5. Update the documentation and generate the test data.
     1. Running [the script](https://github.com/onnx/onnx/blob/master/tools/update_doc.sh)
@@ -70,9 +72,9 @@ to update the doc and generate the test data.
     The test case containing the function body should be tested with an existing backend as a sanity
     check for the function-body definition. (Since the CI infrastructure does not currently use any
     backend or reference-implementation, this test needs to be done manually.)
-7. Shape Inference function 
+7. Shape Inference function
     1. Provide a shape inference function in cases where it is meaningful and applicable.
-    2. In cases where shape inference is not possible, it must have logic to perform 
+    2. In cases where shape inference is not possible, it must have logic to perform
 rank inference at the very least (adding right amount of dimensions to the output shape)
     3. Shape inference functions must be accompanied by unit tests (https://github.com/onnx/onnx/blob/master/onnx/test/shape_inference_test.py).
     4. You can refer to the shape inference function for the `TopK` operator while implementing your own function (https://github.com/onnx/onnx/blob/master/onnx/defs/math/defs.cc#L943)
