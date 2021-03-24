@@ -1,3 +1,5 @@
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
 # What problems we are trying to solve
 This document is intended to capture common ONNX converter issues and provide general recommendations for all converters to address them in a similar fashion.
 

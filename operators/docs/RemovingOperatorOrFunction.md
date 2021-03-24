@@ -1,3 +1,5 @@
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
 # Removing operator and function
 There are a lot of reasons for removing ONNX operator or function, such us being replaced with different operator or can be decomposed by a set of operators. This document describes the criteria for removing an existing ONNX operator from the standard.
 

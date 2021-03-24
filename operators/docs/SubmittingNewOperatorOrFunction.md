@@ -1,8 +1,10 @@
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
 # Proposing and submitting a new operator or function to ONNX
 
 Operators are the basic building blocks that define ONNX model. With a rich set of operators, ONNX can describe most DNN and ML models from various frameworks. Improving the process of accepting and adding a new operator to ONNX is crucial for ONNX standard future and its viability.
 
-In this document, we describe the process of accepting a new proposed operator and how to properly submit a new operator as part of ONNX standard. The goal is to improve on what we currently have based on our experience, learning and feedbacks we gathered from the community. 
+In this document, we describe the process of accepting a new proposed operator and how to properly submit a new operator as part of ONNX standard. The goal is to improve on what we currently have based on our experience, learning and feedbacks we gathered from the community.
 
 Adding new operator to ONNX is vital to keep up with latest model architectures and to keep ONNX standard relevant.
 
