@@ -49,14 +49,13 @@ SIG-operators:
     - daquexian
     - hariharans29
     - skottmckay
+    - matteosal
+    - bowenbao
     approvers:
         - wschin
         - postrational
-        - linkerzhang
         - ebarsoum
-        - bddppq
         - gramalingam
-        - houseroad
 
 
 SIG-converters:
