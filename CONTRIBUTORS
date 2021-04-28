@@ -71,14 +71,11 @@ SIG-converters:
 SIG-modelstutorials:
     - askhade
     - faxu
-    - ankkhedia
     - EmmaNingMS
     approvers:
         - ebarsoum
         - vinitra
-        - abhinavs95
         - prasanthpul
-        - houseroad
         - wenbingl
 
 
