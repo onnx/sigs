@@ -19,7 +19,6 @@ SIG-archinfra:
     - jcwchen
     - vinitra
     - skottmckay
-    - jcwchen
     releasemgrs:
     mlir:
         - migueldeicaza
