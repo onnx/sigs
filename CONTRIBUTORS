@@ -60,12 +60,13 @@ SIG-operators:
 
 
 SIG-converters:
-    - prasanthpul
     - tjingrant
+    - TomWildenhain-Microsoft
     approvers:
         - wschin
         - wenbingl
         - guschmue
+        - kevinch-nv
 
 
 SIG-modelstutorials:
