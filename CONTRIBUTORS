@@ -9,9 +9,7 @@
 
 
 SIG-archinfra:
-    - zrphercule
     - spandantiwari
-    - raymondxyang
     - yuslepukhin
     - faxu
     - wschin
@@ -21,11 +19,11 @@ SIG-archinfra:
     - jcwchen
     - vinitra
     - skottmckay
+    - yuanbyu
     releasemgrs:
     mlir:
         - migueldeicaza
         - doru1004
-        - yuanbyu
         - tjingrant
         - AlexandreEichenberger
         - caoimhinuibrian
@@ -37,11 +35,8 @@ SIG-archinfra:
         - linkerzhang
         - askhade
         - ebarsoum
-        - bddppq
         - gramalingam
-        - jspisak
         - prasanthpul
-        - houseroad
 
 
 SIG-operators:
