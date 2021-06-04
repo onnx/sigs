@@ -21,7 +21,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-operators](https
 
 # SIG Meeting Info
 
-* Next meeting: May 13, 2021.
+* Next meeting: June 3, 2021.
 * Meeting occurs every 4 weeks on Thursday at 9 AM PST.
 * Zoom Meeting link: https://zoom.us/j/91835750773
 * Meeting ID: 918 3575 0773
