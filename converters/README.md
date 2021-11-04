@@ -21,7 +21,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-converters](http
 
 # Discussion
 
-* Gitter channel https://gitter.im/onnx/converters
+* Slack channel: https://lfaifoundation.slack.com/archives/C0171FSKZBN
 * Documents and artifacts: https://github.com/onnx/sigs/tree/master/converters
 
 # Meeting notes
