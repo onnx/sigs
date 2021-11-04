@@ -10,8 +10,8 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-converters](http
 
 # SIG Leads
 
-* Chin Huang (Ibm)
 * Guenther Schmuelling (Microsoft)
+* Kevin Chen (NVIDIA)
 
 # Logistics
 
