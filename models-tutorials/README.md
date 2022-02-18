@@ -12,8 +12,9 @@ Feedback and contributions are welcome.
 Please sign up at https://slack.lfai.foundation/ and join [onnx-modelzoo](https://lfaifoundation.slack.com/archives/C018RE2BRBL) channel.
 
 # SIG Leads
-**Wenbing Li (Microsoft)**: September 2020 - Current
-**Vinitra Swamy (Microsoft)**: January 2020 - September 2020
+* Jacky Chen (Microsoft): February 2022 - Current
+* Wenbing Li (Microsoft): September 2020 - February 2022
+* Vinitra Swamy (Microsoft): January 2020 - September 2020
 
 # Logistics
 SIG lead will drive the meeting. Meeting annoucements will be posted in our [gitter channel](https://gitter.im/onnx/models).
