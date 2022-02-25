@@ -2,72 +2,73 @@
 # Permissions to GitHub repos are managed through teams in GitHub, which unfortunately are not
 # visible to everyone. For transparency, this file lists the members of the GitHub teams defined
 # for the ONNX organization.
-# 
+#
 # To recommend someone be added as a Contributor or Approver, submit a PR to update this file
-# along with the justification. Once approved per the ONNX open governance guidelines, a 
+# along with the justification. Once approved per the ONNX open governance guidelines, a
 # Steering Committee admin will update the GitHub teams configuration and merge the PR.
-
+#
+# Please keep each section sorted alphabetically!
 
 SIG-archinfra:
-    - spandantiwari
-    - yuslepukhin
-    - faxu
-    - wschin
-    - kevinch-nv
-    - winnietsang
     - chinhuang007
+    - faxu
     - jcwchen
-    - vinitra
+    - kevinch-nv
     - skottmckay
+    - spandantiwari
+    - vinitra
+    - winnietsang
+    - wschin
     - yuanbyu
+    - yuslepukhin
     releasemgrs:
     mlir:
-        - migueldeicaza
-        - doru1004
-        - tjingrant
         - AlexandreEichenberger
         - caoimhinuibrian
         - chentong319
+        - doru1004
+        - migueldeicaza
+        - tjingrant
     optimizer:
         - daquexian
         - fumihwh
     approvers:
-        - linkerzhang
         - askhade
         - ebarsoum
         - gramalingam
+        - linkerzhang
         - prasanthpul
 
 
 SIG-operators:
-    - shinh
+    - bowenbao
     - daquexian
     - hariharans29
-    - skottmckay
     - matteosal
-    - bowenbao
+    - shinh
+    - skottmckay
     approvers:
-        - wschin
-        - postrational
+        - askhade
         - ebarsoum
         - gramalingam
-        - askhade
+        - postrational
+        - wschin
 
 
 SIG-converters:
     - tjingrant
     - TomWildenhain-Microsoft
     approvers:
-        - wschin
-        - wenbingl
         - guschmue
         - kevinch-nv
+        - wenbingl
+        - wschin
 
 
 SIG-modelstutorials:
     - askhade
-    - faxu
     - EmmaNingMS
+    - faxu
     approvers:
         - jcwchen
         - prasanthpul
@@ -75,23 +76,23 @@ SIG-modelstutorials:
 
 
 SIG-chairs:
-    - postrational
-    - linkerzhang
-    - gramalingam
-    - kevinch-nv
-    - jcwchen
     - askhade
+    - gramalingam
+    - jcwchen
+    - kevinch-nv
+    - linkerzhang
+    - postrational
 
 
 WG-chairs:
     - chinhuang007
-    - sveta-levitan
     - jantonguirao
+    - sveta-levitan
 
 
 Steering-Committee:
-    - prasanthpul
     - AlexandreEichenberger
+    - mk-nvidia
+    - prasanthpul
     - rajeevnalawadi
     - wenming
-    - mk-nvidia
