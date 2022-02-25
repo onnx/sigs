@@ -14,6 +14,7 @@ SIG-archinfra:
     - faxu
     - jcwchen
     - kevinch-nv
+    - liqunfu
     - skottmckay
     - spandantiwari
     - vinitra
@@ -43,6 +44,7 @@ SIG-archinfra:
 SIG-operators:
     - bowenbao
     - daquexian
+    - garymm
     - hariharans29
     - matteosal
     - shinh
