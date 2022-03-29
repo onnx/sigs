@@ -12,9 +12,7 @@
 SIG-archinfra:
     - chinhuang007
     - faxu
-    - jcwchen
     - kevinch-nv
-    - liqunfu
     - skottmckay
     - spandantiwari
     - vinitra
@@ -37,10 +35,10 @@ SIG-archinfra:
         - askhade
         - ebarsoum
         - gramalingam
-        - linkerzhang
-        - prasanthpul
         - jcwchen
+        - linkerzhang
         - liqunfu
+        - prasanthpul
 
 
 SIG-operators:
