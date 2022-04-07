@@ -10,14 +10,27 @@
 # Please keep each section sorted alphabetically!
 
 SIG-archinfra:
+    - annajung
     - chinhuang007
+    - chudegao
     - faxu
+    - fdwr
+    - gwang-msft
+    - jackwish
+    - jantonguirao
     - kevinch-nv
+    - mhamilton723
+    - rajeevsrao
     - skottmckay
+    - snnn
     - spandantiwari
+    - stillmatic
+    - take-cheeze
+    - TomWildenhain-Microsoft
     - vinitra
     - winnietsang
     - wschin
+    - xuzijian629
     - yuanbyu
     - yuslepukhin
     releasemgrs:
@@ -42,13 +55,21 @@ SIG-archinfra:
 
 
 SIG-operators:
+    - ashbhandare
     - bowenbao
     - daquexian
     - garymm
     - hariharans29
+    - hwangdeyu
+    - jiafatom
+    - liuyu21
     - matteosal
+    - neginraoof
+    - shubhambhokare1
     - shinh
     - skottmckay
+    - xadupre
+    - yufenglee
     approvers:
         - askhade
         - ebarsoum
