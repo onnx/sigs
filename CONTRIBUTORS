@@ -39,6 +39,7 @@ SIG-archinfra:
         - fumihwh
     approvers:
         - askhade
+        - ebarsoum
         - gramalingam
         - jcwchen
         - linkerzhang
