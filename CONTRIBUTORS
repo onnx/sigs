@@ -23,15 +23,8 @@ SIG-archinfra:
     - rajeevsrao
     - skottmckay
     - snnn
-    - spandantiwari
-    - stillmatic
-    - take-cheeze
-    - TomWildenhain-Microsoft
-    - vinitra
-    - winnietsang
     - wschin
     - xuzijian629
-    - yuanbyu
     - yuslepukhin
     releasemgrs:
     mlir:
@@ -46,7 +39,6 @@ SIG-archinfra:
         - fumihwh
     approvers:
         - askhade
-        - ebarsoum
         - gramalingam
         - jcwchen
         - linkerzhang
@@ -60,11 +52,8 @@ SIG-operators:
     - daquexian
     - garymm
     - hariharans29
-    - hwangdeyu
-    - jiafatom
     - liuyu21
     - matteosal
-    - neginraoof
     - shubhambhokare1
     - shinh
     - skottmckay
