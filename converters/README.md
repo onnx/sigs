@@ -10,13 +10,13 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-converters](http
 
 # SIG Leads
 
-* Guenther Schmuelling (Microsoft)
+* Thiago Crepaldi (Microsoft)
 * Kevin Chen (NVIDIA)
 
 # Logistics
 
 * SIG leads will drive the meeting.
-* Meeting annoucement will be posted in our gitter channel: https://gitter.im/onnx/converters
+* Meeting annoucement will be posted in our Slack channel
 * Feedbacks and topic request are welcome by all.
 
 # Discussion
