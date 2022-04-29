@@ -34,6 +34,7 @@ SIG-archinfra:
     approvers:
         - askhade
         - ebarsoum
+        - etiotto
         - gramalingam
         - jcwchen
         - linkerzhang
