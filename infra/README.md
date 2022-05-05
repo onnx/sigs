@@ -12,18 +12,19 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-archinfra](https
 
 # SIG Leads
 
-* Ke Zhang (Microsoft)
-* Lu Fang (Facebook)
+* Liqun Fu (Microsoft)
+* Ke Zhang (Ant)
+
 
 # Logistics
 
 * SIG leads will drive the meeting.
-* Meeting annoucement will be posted in our gitter channel: https://gitter.im/onnx/Infra
+* Meeting annoucement will be posted in our Slack channel.
 * Feedbacks and topic request are welcome by all.
 
 # Discussion
 
-* Gitter channel https://gitter.im/onnx/Infra
+* Slack channel https://lfaifoundation.slack.com/archives/C018Y2QG7V2
 * Documents and artifacts: https://github.com/onnx/sigs/tree/master/infra
 
 # Meeting notes
