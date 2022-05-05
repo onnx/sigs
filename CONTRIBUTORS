@@ -24,10 +24,8 @@ SIG-archinfra:
     - skottmckay
     - snnn
     - wschin
-    - yuanbyu
     - xuzijian629
     - yuanbyu
-    - yuslepukhin
     - yuslepukhin
     releasemgrs:
     mlir:
