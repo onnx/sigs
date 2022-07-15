@@ -31,13 +31,13 @@ In order to propose a new operator/function, the following is needed:
 1. If the operator can be composed by other ONNX operators, then it should be a function and not an operator.
 2. If the operator can be split to new primitives, propose those primitives instead and make the operator a function.
 3. The operator should be based on a popular model architecture to validate that this operator solves an actual problem. In case, the model is private or IP and can't be shared, the operator doesn't belong to the standard and should be implemented as custom OP.
-4. The operator should be implemented by at-least one (well-known) framewor to validate the actual behavior of the operator and its usage.
+4. The operator should be implemented by at-least one (well-known) framework to validate the actual behavior of the operator and its usage.
 5. Operator signature and behavior:
     1. If the operator is available in numpy, prefer numpy semantics.
     2. If the operator is available in more than one frameworks, make sure that your design is general and covers those frameworks.
 6. Prefer attributes over inputs.
 
-## Step 2: Codeing Conventions <a name="step2_codeing_conventions"></a>
+## Step 2: Coding Conventions <a name="step2_codeing_conventions"></a>
 To maintain consistency in operator signatures, follow these principles:
 1. All attribute names should be lower case and use underscores when applicable
 2. Any input/output represented by a single letter should be capitalized (i.e. X)
@@ -52,12 +52,12 @@ Once the criteria of proposing new operator/function has been satisfied, submit 
 1. Description:
     1. Write a detailed description about the operator, and its expected behavior. The description should be clear enough to avoid confusion between implementors.
     2. Add an example in the description to illustrate the usage.
-    3. Add reference to the source of the operator in the original framework in the description.
+    3. Add a reference to the source of the operator in the original framework in the description.
     4. Write the mathematic formula or a pseudocode in the description. The core algorithm needs to be very clear.
-2. Write a reference implementation in Python, this reference implementation should cover all the expected behavior of the operator. Only in extremely rare case (with approval from Operator SIG), this requirement will be waived.
+2. Write a reference implementation in Python, this reference implementation should cover all the expected behavior of the operator. Only in extremely rare cases (with approval from Operator SIG), this requirement will be waived.
 3. Writing test:
     1. It should have the same coverage as the original framework.
-    2. Generate the test data from the original framework operator, the submission needs to include the script that generated the test data and all its depencdencies. (where will this script be checked in?)
+    2. Generate the test data from the original framework operator, the submission needs to include the script that generated the test data and all its dependencies. (where will this script be checked in?)
     3. The testing examples will be extracted to the doc.(explain this better? Its not clear what is expected here)
     4. We also generate binary data for it. (what is the action item for the PR author? )
     5. Example: https://github.com/onnx/onnx/blob/master/onnx/backend/test/case/node/abs.py (does this need to be as a separate bullet?)
