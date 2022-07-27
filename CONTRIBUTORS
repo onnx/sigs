@@ -57,12 +57,11 @@ SIG-archinfra:
         - linkerzhang
         - liqunfu
         - prasanthpul
-
+        - daquexian
 
 SIG-operators:
     - ashbhandare
     - bowenbao
-    - daquexian
     - garymm
     - hariharans29
     - liuyu21
@@ -72,13 +71,14 @@ SIG-operators:
     - skottmckay
     - xadupre
     - yufenglee
+    - p-wysocki
     approvers:
         - askhade
         - ebarsoum
         - gramalingam
         - postrational
         - wschin
-
+        - daquexian
 
 SIG-converters:
     - tjingrant
