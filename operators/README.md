@@ -17,7 +17,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-operators](https
 * SIG leads will drive the meeting.
 * Meeting annoucement will be posted in our Slack channel: https://lfaifoundation.slack.com/archives/C018Y2RAY4C
 * Feedbacks and topic request are welcome by all.
-* Documents and artifacts: https://github.com/onnx/sigs/tree/master/operators
+* Documents and artifacts: https://github.com/onnx/sigs/tree/main/operators
 
 # SIG Meeting Info
 
