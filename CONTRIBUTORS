@@ -50,7 +50,6 @@ SIG-archinfra:
         - fumihwh
     approvers:
         - askhade
-        - ebarsoum
         - etiotto
         - gramalingam
         - jcwchen
@@ -58,6 +57,7 @@ SIG-archinfra:
         - liqunfu
         - prasanthpul
         - daquexian
+        - xadupre
 
 SIG-operators:
     - ashbhandare
@@ -69,16 +69,15 @@ SIG-operators:
     - shinh
     - shubhambhokare1
     - skottmckay
-    - xadupre
     - yufenglee
     - p-wysocki
     approvers:
         - askhade
-        - ebarsoum
         - gramalingam
         - postrational
         - wschin
         - daquexian
+        - xadupre
 
 SIG-converters:
     - tjingrant
