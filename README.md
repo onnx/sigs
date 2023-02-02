@@ -19,6 +19,7 @@ The current list of Contributors and Approvers in the SIGs are listed in the [CO
 | Name      | Responsibilities    |
 | ------------------ | ------------- |
 | [Architecture & Infra](infra) | Defining and maintaining the core ONNX format, the build and CI/CD systems for ONNX repositories, publishing release packages for ONNX, the onnx-docker repository, and creating tools to help integrate with and test against the ONNX standard. This SIG is also the defacto owner of files in the main ONNX repository unless explicitly owned by another SIG. |
+| [Compilers](compilers) | Developing and maintaining core compiler technology optimizing and lowering ONNX format. |
 | [Operators](operators) | Determining the operators that are part of the ONNX spec (ONNX and ONNX-ML domains), ensuring high quality operator definitions and documentation, establishing criteria for adding new operators, managing ops domains and compliance tiers, and enforcing versioning mechanisms. |
 | [Converters](converters) | Developing and maintaining the various converter repositories under ONNX. |
 | [Models and tutorials](models-tutorials) | Providing a comprehensive collection of state of the art ONNX models from a variety of sources and making it easy for users to get started with ONNX and the ecosystem around it. |
