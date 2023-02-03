@@ -50,5 +50,5 @@ Find your local number: https://zoom.us/u/abbACsxYIL
 
 # Meeting notes
 
-The meetings notes can be found [here](https://github.com/onnx/sigs/tree/main/operators/meetings)
+The meeting notes can be found [here](https://github.com/onnx/sigs/tree/main/operators/meetings)
 

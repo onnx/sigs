@@ -29,4 +29,4 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-archinfra](https
 
 # Meeting notes
 
-The meetings notes can be found [here](https://github.com/onnx/sigs/tree/main/infra/meetings)
+The meeting notes can be found [here](https://github.com/onnx/sigs/tree/main/infra/meetings)

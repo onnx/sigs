@@ -26,5 +26,5 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-converters](http
 
 # Meeting notes
 
-The meetings notes can be found [here](https://github.com/onnx/sigs/tree/main/converters/meetings)
+The meeting notes can be found [here](https://github.com/onnx/sigs/tree/main/converters/meetings)
 
