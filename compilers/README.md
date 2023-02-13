@@ -5,7 +5,7 @@
 This is the working repo for the Compiler Special Interest Group (SIG), which is responsible for compiler solutions that optimizes and lower ONNX core format file to representations that are fed to further compilers, runtimes, or directly executed.
 The compiler solutions investigated by this SIG predominantly consumes ONNX core files as defined by the Architecture & Infrastrucutre SIG and uses ONNX operations as defined by the Operator SIG.
 This SIG is open to solutions developped in any relevant, open-sourced compiler-frameworks and may sponsor projects that work in specific compiler frameworks.
-This SIG also invite discussions on making the ONNX standard more amendable to compiler technology. 
+This SIG also invite discussions on making the ONNX standard more amendable to compiler technology.
 
 This repo contains all the artifacts, materials, meeting notes, and proposals regarding the Compiler SIG.
 
@@ -18,7 +18,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-compilers](https
 ## SIG Lead(s)
 
 * Alexandre Eichenberger (IBM)
-* TBD
+* Philip Lassen (Groq)
 
 ## Logistics
 
@@ -42,7 +42,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-compilers](https
 
 * Onnx-mlir: lowering ONNX representation to other MLIR representations, including representations for ingestion in the LLVM compiler.
   * Description: [High Level](https://www.onnx.ai/onnx-mlir), [GitHub](https://github.com/onnx/onnx-mlir).
-  * Meeting [agneda and notes](https://github.com/onnx/onnx-mlir/wiki/Informal-meeting-agenda-and-notes).
+  * Meeting [agenda and notes](https://github.com/onnx/onnx-mlir/wiki/Informal-meeting-agenda-and-notes).
   * Slack channel: [onnx-mlir](https://lfaifoundation.slack.com/archives/C01B38FP2AV)
 
 
