@@ -12,8 +12,7 @@ This repo contains all the artifacts, materials, meeting notes, and proposals re
 Feedbacks and contributions are welcome.
 
 ## Slack channel
-Please sign up at https://slack.lfai.foundation/ and join [onnx-compilers](https://lfaifoundation.slack.com/archives/C01B38FP2AV) channel.
-<!--- slack channels to be created / renamed if proposal is accepted -->
+Please sign up at https://slack.lfai.foundation/ and join [onnx-compilers](https://lfaifoundation.slack.com/archives/C04Q6GVLCHX) channel.
 
 ## SIG Lead(s)
 
