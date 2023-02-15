@@ -32,7 +32,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-compilers](https
 ## Discussion
 
 * Slack channel https://lfaifoundation.slack.com/archives/C018Y2QG7V2
-* Documents and artifacts: https://github.com/onnx/sigs/tree/master/compilers
+* Documents and artifacts: https://github.com/onnx/sigs/tree/main/compilers
 
 ## Meeting notes
 
