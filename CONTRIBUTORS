@@ -28,23 +28,6 @@ SIG-archinfra:
     - yuanbyu
     - yuslepukhin
     releasemgrs:
-    mlir:
-        - AlexandreEichenberger
-        - caoimhinuibrian
-        - chentong319
-        - doru1004
-        - etiotto
-        - gongsu832
-        - gramalingam
-        - imaihal
-        - manbearian
-        - MikeHolman
-        - NathanielMcVicar
-        - negiyas
-        - sstamenova
-        - tjingrant
-        - tungld
-        - whitneywhtsang
     optimizer:
         - daquexian
         - fumihwh
@@ -100,6 +83,27 @@ SIG-modelstutorials:
         - jcwchen
         - prasanthpul
         - wenbingl
+
+
+SIG-compilers:
+    - AlexandreEichenberger
+    - caoimhinuibrian
+    - chentong319
+    - doru1004
+    - etiotto
+    - gongsu832
+    - gramalingam
+    - imaihal
+    - manbearian
+    - MikeHolman
+    - NathanielMcVicar
+    - negiyas
+    - sstamenova
+    - tjingrant
+    - tungld
+    - whitneywhtsang
+    approvers:
+        - AlexandreEichenberger
 
 
 SIG-chairs:
