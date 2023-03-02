@@ -28,23 +28,6 @@ SIG-archinfra:
     - yuanbyu
     - yuslepukhin
     releasemgrs:
-    mlir:
-        - AlexandreEichenberger
-        - caoimhinuibrian
-        - chentong319
-        - doru1004
-        - etiotto
-        - gongsu832
-        - gramalingam
-        - imaihal
-        - manbearian
-        - MikeHolman
-        - NathanielMcVicar
-        - negiyas
-        - sstamenova
-        - tjingrant
-        - tungld
-        - whitneywhtsang
     optimizer:
         - daquexian
         - fumihwh
@@ -66,19 +49,19 @@ SIG-operators:
     - hariharans29
     - liuyu21
     - matteosal
+    - p-wysocki
     - shinh
     - shubhambhokare1
     - skottmckay
     - yufenglee
-    - p-wysocki
     approvers:
         - askhade
+        - daquexian
         - gramalingam
         - postrational
         - wschin
-        - daquexian
         - xadupre
-
+  
 SIG-converters:
     - tjingrant
     - TomWildenhain-Microsoft
@@ -101,15 +84,70 @@ SIG-modelstutorials:
         - prasanthpul
         - wenbingl
 
+SIG-compilers:
+     - AlexandreEichenberger
+     - BraunPhilipp
+     - MikeHolman
+     - NathanielMcVicar
+     - Silvan-K
+     - ashay
+     - caoimhinuibrian
+     - chenchongsong
+     - chentong319
+     - christopherbate
+     - cjvolzka
+     - doru1004
+     - etiotto
+     - gargaroff
+     - gongsu832
+     - gramalingam
+     - hamptonm1
+     - imaihal
+     - jcwchen
+     - kevcadieux
+     - ljfitz
+     - manbearian
+     - maxbartel
+     - messerb5467
+     - mikeessen
+     - mmoldawsky
+     - negiyas
+     - philass
+     - rdicecco
+     - sorenlassen
+     - sstamenova
+     - tjingrant
+     - tungld
+     - weonyuan
+     - whitneywhtsang
+     - yaochengji
+     approvers:
+         - AlexandreEichenberger
+         - NathanielMcVicar
+         - caoimhinuibrian
+         - chentong319
+         - cjvolzka
+         - gongsu832
+         - hamptonm1
+         - imaihal
+         - jcwchen
+         - maxbartel
+         - mikeessen
+         - negiyas
+         - philass
+         - sorenlassen
+         - sstamenova
+         - tungld
 
 SIG-chairs:
+    - AlexandreEichenberger
     - askhade
     - gramalingam
     - jcwchen
     - kevinch-nv
     - linkerzhang
+    - philass
     - postrational
-
 
 WG-chairs:
     - chinhuang007
