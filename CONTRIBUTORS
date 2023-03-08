@@ -60,9 +60,7 @@ SIG-archinfra:
         - xadupre
 
 SIG-operators:
-    - ashbhandare
     - bowenbao
-    - garymm
     - hariharans29
     - liuyu21
     - matteosal
@@ -71,6 +69,7 @@ SIG-operators:
     - skottmckay
     - yufenglee
     - p-wysocki
+    - thiagocrepaldi
     approvers:
         - askhade
         - gramalingam
