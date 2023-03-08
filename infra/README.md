@@ -25,8 +25,8 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-archinfra](https
 # Discussion
 
 * Slack channel https://lfaifoundation.slack.com/archives/C018Y2QG7V2
-* Documents and artifacts: https://github.com/onnx/sigs/tree/master/infra
+* Documents and artifacts: https://github.com/onnx/sigs/tree/main/infra
 
 # Meeting notes
 
-* [Monday July 1, 2019](https://github.com/onnx/sigs/blob/master/infra/meetings/001-20190701.md)
+The meeting notes can be found [here](https://github.com/onnx/sigs/tree/main/infra/meetings)

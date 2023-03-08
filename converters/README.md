@@ -22,9 +22,9 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-converters](http
 # Discussion
 
 * Slack channel: https://lfaifoundation.slack.com/archives/C0171FSKZBN
-* Documents and artifacts: https://github.com/onnx/sigs/tree/master/converters
+* Documents and artifacts: https://github.com/onnx/sigs/tree/main/converters
 
 # Meeting notes
 
-* [Wednesday July 10, 2019](https://github.com/onnx/sigs/blob/master/converters/meetings/001-20190710.md)
+The meeting notes can be found [here](https://github.com/onnx/sigs/tree/main/converters/meetings)
 
