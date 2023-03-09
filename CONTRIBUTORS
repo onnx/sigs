@@ -86,6 +86,7 @@ SIG-converters:
         - kevinch-nv
         - wenbingl
         - wschin
+        - thiagocrepaldi
 
 
 SIG-modelstutorials:
@@ -109,6 +110,7 @@ SIG-chairs:
     - kevinch-nv
     - linkerzhang
     - postrational
+    - thiagocrepaldi
 
 
 WG-chairs:
