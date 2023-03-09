@@ -61,12 +61,8 @@ SIG-operators:
         - postrational
         - wschin
         - xadupre
-<<<<<<< HEAD
-  
-=======
         - yuanyao-nv
 
->>>>>>> main
 SIG-converters:
     - tjingrant
     - TomWildenhain-Microsoft
@@ -75,7 +71,6 @@ SIG-converters:
         - kevinch-nv
         - wenbingl
         - wschin
-
 
 SIG-modelstutorials:
     - AK391
@@ -131,7 +126,7 @@ SIG-compilers:
          - sorenlassen
          - sstamenova
          - tungld
-  
+
 SIG-chairs:
     - AlexandreEichenberger
     - askhade
@@ -146,7 +141,6 @@ WG-chairs:
     - chinhuang007
     - jantonguirao
     - sveta-levitan
-
 
 Steering-Committee:
     - andife
