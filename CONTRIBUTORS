@@ -61,7 +61,12 @@ SIG-operators:
         - postrational
         - wschin
         - xadupre
+<<<<<<< HEAD
   
+=======
+        - yuanyao-nv
+
+>>>>>>> main
 SIG-converters:
     - tjingrant
     - TomWildenhain-Microsoft
@@ -77,12 +82,15 @@ SIG-modelstutorials:
     - askhade
     - EmmaNingMS
     - faxu
+    - jantonguirao 
     - mengniwang95
     - mhamilton723
+    - yuwenzho
     approvers:
         - jcwchen
         - prasanthpul
         - wenbingl
+        - andife
 
 SIG-compilers:
      - BraunPhilipp
@@ -145,5 +153,4 @@ Steering-Committee:
     - AlexandreEichenberger
     - mk-nvidia
     - prasanthpul
-    - rajeevnalawadi
-    - wenming
+    - saurabhtangri
