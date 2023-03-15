@@ -86,13 +86,10 @@ SIG-modelstutorials:
         - jcwchen
         - prasanthpul
         - wenbingl
-        
 
 SIG-compilers:
-     - BraunPhilipp
-     - MikeHolman
-     - Silvan-K
      - ashay
+     - BraunPhilipp
      - chenchongsong
      - christopherbate
      - doru1004
@@ -106,15 +103,16 @@ SIG-compilers:
      - ljfitz
      - manbearian
      - messerb5467
+     - MikeHolman
      - mmoldawsky
      - rdicecco
+     - Silvan-K
      - tjingrant
      - weonyuan
      - whitneywhtsang
      - yaochengji
      approvers:
          - AlexandreEichenberger
-         - NathanielMcVicar
          - caoimhinuibrian
          - chentong319
          - cjvolzka
@@ -122,6 +120,7 @@ SIG-compilers:
          - imaihal
          - maxbartel
          - mikeessen
+         - NathanielMcVicar
          - negiyas
          - philass
          - sorenlassen
@@ -130,18 +129,16 @@ SIG-compilers:
 
 SIG-chairs:
     - AlexandreEichenberger
-    - askhade
     - gramalingam
     - jcwchen
     - kevinch-nv
     - linkerzhang
+    - liqunfu
     - philass
     - postrational
 
 WG-chairs:
-    - chinhuang007
     - jantonguirao
-    - sveta-levitan
 
 Steering-Committee:
     - andife
