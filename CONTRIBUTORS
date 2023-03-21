@@ -43,9 +43,7 @@ SIG-archinfra:
         - xadupre
 
 SIG-operators:
-    - ashbhandare
     - bowenbao
-    - garymm
     - hariharans29
     - liuyu21
     - matteosal
@@ -53,7 +51,10 @@ SIG-operators:
     - shinh
     - shubhambhokare1
     - skottmckay
+    - thiagocrepaldi
     - yufenglee
+
+
     approvers:
         - askhade
         - daquexian
@@ -71,6 +72,7 @@ SIG-converters:
         - kevinch-nv
         - wenbingl
         - wschin
+        - thiagocrepaldi
 
 SIG-modelstutorials:
     - AK391
@@ -137,6 +139,7 @@ SIG-chairs:
     - philass
     - postrational
     - thiagocrepaldi
+
 
 WG-chairs:
     - jantonguirao
