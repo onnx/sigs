@@ -28,6 +28,7 @@ SIG-archinfra:
     - yuanbyu
     - yuslepukhin
     releasemgrs:
+        - yuanyao-nv
     optimizer:
         - daquexian
         - fumihwh
@@ -53,8 +54,6 @@ SIG-operators:
     - skottmckay
     - thiagocrepaldi
     - yufenglee
-
-
     approvers:
         - askhade
         - daquexian
