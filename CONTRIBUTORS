@@ -27,6 +27,11 @@ SIG-archinfra:
     - xuzijian629
     - yuanbyu
     - yuslepukhin
+    - andife
+    - justinchuby
+    - garymm
+    - take-cheeze
+    - natke
     releasemgrs:
         - yuanyao-nv
     optimizer:
@@ -54,6 +59,13 @@ SIG-operators:
     - skottmckay
     - thiagocrepaldi
     - yufenglee
+    - jantonguirao
+    - xuzijian629
+    - jbachurski
+    - smk2007
+    - philass
+    - sechkova
+    - AlexandreEichenberger
     approvers:
         - askhade
         - daquexian
