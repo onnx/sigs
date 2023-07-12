@@ -1,27 +1,44 @@
 <!--- SPDX-License-Identifier: Apache-2.0 -->
 
-# SIGs - Special Interest Groups
+# ONNX Optimization Special Interest Group (SIG)
 
-As described in the ONNX [governance](https://github.com/onnx/onnx/tree/main/community#sig---special-interest-groups), Special Interest Groups (SIGs) are persistent groups responsible for specific parts of the project. SIGs have open and transparent proceedings to develop goals and implement code contributions. SIGs are also responsible for ongoing maintenance of the code in their areas.
+This is the working repo for the Optimization Special Interest Group (SIG), which is responsible for solutions to optimize ONNX models, including model compression techniques (e.g. quantization, pruning, distillation, etc.) The optimization solutions investigated by this SIG predominantly operates on ONNX core files as defined by the Architecture & Infrastructure SIG and uses ONNX operations as defined by the Operator SIG - i.e. ONNX as input, optimization on ONNX file(s), ONNX as output. This SIG is open to techniques developed in any relevant, open-sourced optimization frameworks and capabilities and may sponsor projects that work in specific optimization frameworks. This SIG also invite discussions on making the ONNX standard more amendable to ONNX optimization technologies.
 
-SIG artifacts, including membership list and meeting notes, are stored in this repository.
+This repo contains all the artifacts, materials, meeting notes, and proposals regarding the Optimization SIG.
 
-## Participating
-If you are interested in participating, please [join the discussion](https://lfaifoundation.slack.com/archives/C016UBNDBL2") in the respective slack channel.
+Feedbacks and contributions are welcome.
 
-You can find the schedule of SIG meetings on the [LF AI & Data calendar](https://wiki.lfai.foundation/pages/viewpage.action?pageId=18481196)
+## Slack channel
+Please sign up at https://slack.lfai.foundation/ and join [onnx-optimization](https://lfaifoundation.slack.com/archives/C05GKQH0H34) channel.
+<!--- slack channels to be created / renamed if proposal is accepted -->
 
-## SIG members
-The current list of Contributors and Approvers in the SIGs are listed in the [CONTRIBUTORS](CONTRIBUTORS) file. The file also describes the process for updating the list.
+## SIG Lead(s)
 
-## Current SIGs
+* Freddy Chiu (Intel)
+* 
 
-Contact e-mail addresses of SIG leads can be found [here](https://wiki.lfaidata.foundation/pages/viewpage.action?pageId=18481196).
+## Logistics
 
-| Name      | Responsibilities    |
-| ------------------ | ------------- |
-| [Architecture & Infra](infra) | Defining and maintaining the core ONNX format, the build and CI/CD systems for ONNX repositories, publishing release packages for ONNX, the onnx-docker repository, and creating tools to help integrate with and test against the ONNX standard. This SIG is also the defacto owner of files in the main ONNX repository unless explicitly owned by another SIG. |
-| [Compilers](compilers) | Developing and maintaining core compiler technology for optimizing and lowering ONNX format. |
-| [Converters](converters) | Developing and maintaining the various converter repositories under ONNX. |
-| [Models and tutorials](models-tutorials) | Providing a comprehensive collection of state of the art ONNX models from a variety of sources and making it easy for users to get started with ONNX and the ecosystem around it. |
-| [Operators](operators) | Determining the operators that are part of the ONNX spec (ONNX and ONNX-ML domains), ensuring high quality operator definitions and documentation, establishing criteria for adding new operators, managing ops domains and compliance tiers, and enforcing versioning mechanisms. |
+* SIG lead(s) will drive the monthly Optimization SIG meeting.
+* Meeting annoucement will be posted in our Slack channel.
+* Specific Optimization-SIG projects may meet at a higher frequency.
+  * SIG lead(s) may delegate leadership of project meetings to their respective project technical lead(s).
+  * Monthly Optimization SIG meetings may take place at the begining of a specific project meeting.
+* Feedbacks and topic requests are welcome by all.
+
+## Discussion
+
+* Slack channel https://lfaifoundation.slack.com/archives/C05GKQH0H34
+* Documents and artifacts: https://github.com/onnx/sigs/tree/master/optimizations
+
+## Meeting notes
+
+* Optimization SIG meeting notes are kept in the [meeting](meetings) folder. 
+
+## Current projects(s)
+
+* Intel Neural Compressor: Intel optimizer tool offering compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search.
+  * Description: [High Level](landing-page), [GitHub](github-github-link-to-be-updated).
+  * Meeting [agenda and notes](github-link-to-be-updated).
+  * Slack channel: [onnx-mlir](slack-channel-link-to-be-updated)
+
