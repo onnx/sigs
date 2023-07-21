@@ -24,4 +24,5 @@ Contact e-mail addresses of SIG leads can be found [here](https://wiki.lfaidata.
 | [Compilers](compilers) | Developing and maintaining core compiler technology for optimizing and lowering ONNX format. |
 | [Converters](converters) | Developing and maintaining the various converter repositories under ONNX. |
 | [Models and tutorials](models-tutorials) | Providing a comprehensive collection of state of the art ONNX models from a variety of sources and making it easy for users to get started with ONNX and the ecosystem around it. |
+| [Optimizations](optimizations) | Developing and maintaining solutions to optimize ONNX models, including model compression techniques (e.g. quantization, pruning, distillation, etc.) |
 | [Operators](operators) | Determining the operators that are part of the ONNX spec (ONNX and ONNX-ML domains), ensuring high quality operator definitions and documentation, establishing criteria for adding new operators, managing ops domains and compliance tiers, and enforcing versioning mechanisms. |

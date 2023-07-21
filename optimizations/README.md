@@ -6,7 +6,7 @@ This is the working repo for the Optimization Special Interest Group (SIG), whic
 
 This repo contains all the artifacts, materials, meeting notes, and proposals regarding the Optimization SIG.
 
-Feedbacks and contributions are welcome.
+Feedbacks and contributions of other optimization tools are welcome and encouraged for discussion at the monthly meetings.
 
 ## Slack channel
 Please sign up at https://slack.lfai.foundation/ and join [onnx-optimization](https://lfaifoundation.slack.com/archives/C05GKQH0H34) channel.
@@ -36,9 +36,9 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-optimization](ht
 * Optimization SIG meeting notes are kept in the [meeting](meetings) folder. 
 
 ## Current projects(s)
-
-* Intel Neural Compressor: Intel optimizer tool offering compression techniques such as quantization, pruning (sparsity), distillation, and neural architecture search.
-  * Description: [High Level](landing-page), [GitHub](github-github-link-to-be-updated).
-  * Meeting [agenda and notes](github-link-to-be-updated).
-  * Slack channel: [onnx-mlir](slack-channel-link-to-be-updated)
+* ONNX Optimizer
+  * [GitHub](github-github-link-to-be-updated)
+* Intel Neural Compressor
+  * [GitHub](github-github-link-to-be-updated)
+  
 
