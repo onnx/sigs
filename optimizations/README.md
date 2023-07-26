@@ -37,7 +37,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-optimization](ht
 
 ## Current projects(s)
 * ONNX Optimizer
-  * [GitHub](github-github-link-to-be-updated)
+  * [GitHub](https://github.com/onnx/optimizer)
 * Intel Neural Compressor
   * [GitHub](github-github-link-to-be-updated)
   
