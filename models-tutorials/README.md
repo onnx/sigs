@@ -12,6 +12,7 @@ Feedback and contributions are welcome.
 Please sign up at https://slack.lfai.foundation/ and join [onnx-modelzoo](https://lfaifoundation.slack.com/archives/C018RE2BRBL) channel.
 
 # SIG Leads
+* Ramakrishnan Sivakumar (AMD): April 2023 - Current
 * Jacky Chen (Microsoft): February 2022 - Current
 * Wenbing Li (Microsoft): September 2020 - February 2022
 * Vinitra Swamy (Microsoft): January 2020 - September 2020
