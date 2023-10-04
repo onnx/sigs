@@ -28,8 +28,9 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-optimization](ht
 
 ## Discussion
 
-* Slack channel https://lfaifoundation.slack.com/archives/C05GKQH0H34
-* Documents and artifacts: https://github.com/onnx/sigs/tree/master/optimizations
+* Slack channel: https://lfaifoundation.slack.com/archives/C05GKQH0H34
+* Mailinglist:
+* Documents and artifacts: https://github.com/onnx/sigs/tree/main/optimizations
 
 ## Meeting notes
 
