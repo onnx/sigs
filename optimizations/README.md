@@ -1,6 +1,6 @@
 <!--- SPDX-License-Identifier: Apache-2.0 -->
 
-# ONNX Optimization Special Interest Group (SIG)
+# ONNX Optimizations Special Interest Group (SIG)
 
 This is the working repo for the Optimization Special Interest Group (SIG), which is responsible for solutions to optimize ONNX models, including model compression techniques (e.g. quantization, pruning, distillation). The optimization solutions investigated by this SIG predominantly operate on ONNX core files as defined by the Architecture & Infrastructure SIG and use ONNX operations as defined by the Operator SIG - i.e. ONNX as input, optimization on ONNX file(s), ONNX as output. This SIG is open to techniques developed in any relevant, open-sourced optimization frameworks and capabilities and may sponsor projects that work in specific optimization frameworks. This SIG also invite discussions on making the ONNX standard more amendable to ONNX optimization technologies.
 
