@@ -13,9 +13,10 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-optimization](ht
 <!--- slack channels to be created / renamed if proposal is accepted -->
 
 ## SIG Lead(s)
+*Open position for co-chair. Drop the SIG Lead a note if you’re interested*
 
 * Freddy Chiu (Intel)
-* Neta Zmora (NVIDIA)
+* ... 
 
 ## Logistics
 
