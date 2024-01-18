@@ -23,6 +23,8 @@ Feedback and topic requests are welcome by all.
 
 Documents and artifacts: https://github.com/onnx/sigs/tree/main/models-tutorials
 
+Meeting will take place at last Friday of each month
+
 # Meeting notes
 [Mission Statement](docs/MissionStatement.md)
 [Community Events](docs/CommunityEvents.md)
