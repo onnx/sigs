@@ -40,6 +40,6 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-optimization](ht
 * ONNX Optimizer
   * [GitHub](https://github.com/onnx/optimizer)
 * Intel Neural Compressor
-  * [GitHub](github-github-link-to-be-updated)
+  * [GitHub](https://github.com/intel/neural-compressor)
   
 
