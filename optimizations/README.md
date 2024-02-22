@@ -12,6 +12,11 @@ Feedbacks and contributions of other optimization tools are welcome and encourag
 Please sign up at https://slack.lfai.foundation/ and join [onnx-optimization](https://lfaifoundation.slack.com/archives/C05GKQH0H34) channel.
 <!--- slack channels to be created / renamed if proposal is accepted -->
 
+## Meeting
+
+* 4th Thursdays of the month, from 5PM PST to 6PM PST
+* Check LFX calender for login link
+
 ## SIG Lead(s)
 
 * Freddy Chiu (Intel)
