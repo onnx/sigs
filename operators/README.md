@@ -22,31 +22,28 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-operators](https
 # SIG Meeting Info
 
 * Meeting occurs every 4 weeks on Thursday at 9 AM PST.
-* Zoom Meeting link: https://zoom.us/j/91835750773
-* Meeting ID: 918 3575 0773
+  
+Ways to join meeting:
 
-One tap mobile
-* +16699006833,,91835750773# US (San Jose)
-* +12532158782,,91835750773# US (Tacoma)
+1. Join from PC, Mac, iPad, or Android
 
-Dial by your location
-* +1 669 900 6833 US (San Jose)
-* +1 253 215 8782 US (Tacoma)
-* +1 301 715 8592 US (Washington D.C)
-* +1 312 626 6799 US (Chicago)
-* +1 346 248 7799 US (Houston)
-* +1 646 558 8656 US (New York)
-* 877 369 0926 US Toll-free
-* 855 880 1246 US Toll-free
-* +1 778 907 2071 Canada
-* +1 204 272 7920 Canada
-* +1 438 809 7799 Canada
-* +1 587 328 1099 Canada
-* +1 647 374 4685 Canada
-* +1 647 558 0588 Canada
-*  855 703 8985 Canada Toll-free
+https://zoom-lfx.platform.linuxfoundation.org/meeting/96786144384?password=b8ffc217-d477-4a27-849f-61334ac72cb8
 
-Find your local number: https://zoom.us/u/abbACsxYIL
+2. Join via audio
+
+One tap mobile:
+US: +12532158782,,96786144384# or +13462487799,,96786144384
+
+Or dial:
+US: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)
+Canada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)
+
+Meeting ID: 96786144384
+
+Meeting Passcode: 884450
+
+
+International numbers: https://zoom.us/u/alwnPIaVT
 
 # Meeting notes
 
