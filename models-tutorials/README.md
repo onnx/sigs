@@ -24,7 +24,7 @@ Feedback and topic requests are welcome by all.
 
 Documents and artifacts: https://github.com/onnx/sigs/tree/main/models-tutorials
 
-Meeting will take place at last Friday of each month at 1pm Pacific/4pm Eastern. 
+Meeting will take place at 4th Thursday of each month at 1pm PST (4pm EST). 
 
 
 # Meeting notes
