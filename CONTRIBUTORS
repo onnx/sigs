@@ -153,6 +153,15 @@ SIG-compilers:
          - sstamenova
          - tungld
 
+SIG-optimizations:
+    - freddychiu
+    - justinchuby
+    - rktreddy
+    - thuang6
+    approvers:
+        - freddychiu
+        - justinchuby
+
 SIG-chairs:
     - AlexandreEichenberger
     - gramalingam
