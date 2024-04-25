@@ -34,9 +34,6 @@ SIG-archinfra:
     - natke
     releasemgrs:
         - yuanyao-nv
-    optimizer:
-        - daquexian
-        - fumihwh
     approvers:
         - askhade
         - etiotto
@@ -154,10 +151,11 @@ SIG-compilers:
          - tungld
 
 SIG-optimizations:
-    - freddychiu
-    - justinchuby
     - rktreddy
     - thuang6
+    optimizer:
+        - daquexian
+        - fumihwh
     approvers:
         - freddychiu
         - justinchuby
