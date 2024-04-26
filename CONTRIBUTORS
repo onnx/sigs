@@ -159,8 +159,12 @@ SIG-optimizations:
     - rktreddy
     - thuang6
     approvers:
+        - chensuyue
         - freddychiu
+        - ftian1
+        - hshen14
         - justinchuby
+        - thuang6
 
 SIG-chairs:
     - AlexandreEichenberger
