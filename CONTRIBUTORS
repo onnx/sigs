@@ -168,16 +168,17 @@ SIG-optimizations:
 
 SIG-chairs:
     - AlexandreEichenberger
+    - freddychiu
     - gramalingam
+    - javier-intel
     - jcwchen
+    - justinchuby
     - kevinch-nv
     - linkerzhang
     - liqunfu
     - philass
     - postrational
     - thiagocrepaldi
-    - javier-intel
-
 
 WG-chairs:
     - jantonguirao
