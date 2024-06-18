@@ -10,7 +10,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-converters](http
 
 # SIG Leads
 
-* Thiago Crepaldi (Microsoft)
+* Xavier Dupre (Microsoft)
 * Kevin Chen (NVIDIA)
 
 # Logistics
