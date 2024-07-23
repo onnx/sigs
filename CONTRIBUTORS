@@ -10,6 +10,7 @@
 # Please keep each section sorted alphabetically!
 
 SIG-archinfra:
+    - abock
     - annajung
     - chinhuang007
     - chudegao
@@ -33,9 +34,6 @@ SIG-archinfra:
     - natke
     releasemgrs:
         - yuanyao-nv
-    optimizer:
-        - daquexian
-        - fumihwh
     approvers:
         - askhade
         - etiotto
@@ -98,6 +96,10 @@ SIG-modelstutorials:
     - mengniwang95
     - mhamilton723
     - yuwenzho
+    - pcolange
+    - venkatvellaichamy
+    - MaanavD
+    - Shrinivas2009in
     approvers:
         - andife
         - danielholanda
@@ -106,6 +108,7 @@ SIG-modelstutorials:
         - prasanthpul
         - ramkrishna2910
         - wenbingl
+        - javier-intel
 
 SIG-compilers:
      - ashay
@@ -147,17 +150,37 @@ SIG-compilers:
          - sstamenova
          - tungld
 
+SIG-optimizations:
+    - rktreddy
+    - thuang6
+    optimizer:
+        - daquexian
+        - fumihwh
+    approvers:
+        - chensuyue
+        - freddychiu
+        - ftian1
+        - hshen14
+        - justinchuby
+        - mengniwang95
+        - thuang6
+        - yiliu30
+        - yuwenzho 
+        - XuehaoSun
+
 SIG-chairs:
     - AlexandreEichenberger
+    - freddychiu
     - gramalingam
+    - javier-intel
     - jcwchen
+    - justinchuby
     - kevinch-nv
     - linkerzhang
     - liqunfu
     - philass
     - postrational
     - thiagocrepaldi
-
 
 WG-chairs:
     - jantonguirao

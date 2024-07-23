@@ -13,6 +13,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-modelzoo](https:
 
 # SIG Leads
 * Ramakrishnan Sivakumar (AMD): April 2023 - Current
+* Javier Martinez (Intel): March 2024 - Current
 * Jacky Chen (Microsoft): February 2022 - November 2023
 * Wenbing Li (Microsoft): September 2020 - February 2022
 * Vinitra Swamy (Microsoft): January 2020 - September 2020
@@ -23,7 +24,8 @@ Feedback and topic requests are welcome by all.
 
 Documents and artifacts: https://github.com/onnx/sigs/tree/main/models-tutorials
 
-Meeting will take place at last Friday of each month
+Meeting will take place at 4th Thursday of each month at 1pm PST (4pm EST). 
+
 
 # Meeting notes
 [Mission Statement](docs/MissionStatement.md)
