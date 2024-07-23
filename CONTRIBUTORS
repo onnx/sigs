@@ -11,6 +11,7 @@
 
 SIG-archinfra:
     - abock
+    - askhade
     - annajung
     - chinhuang007
     - chudegao
@@ -35,7 +36,6 @@ SIG-archinfra:
     releasemgrs:
         - yuanyao-nv
     approvers:
-        - askhade
         - etiotto
         - gramalingam
         - jcwchen
@@ -47,6 +47,7 @@ SIG-archinfra:
         - xadupre
 
 SIG-operators:
+    - askhade
     - bowenbao
     - hariharans29
     - liuyu21
@@ -65,8 +66,8 @@ SIG-operators:
     - sechkova
     - AlexandreEichenberger
     approvers:
-        - askhade
         - daquexian
+        - justinchuby
         - gramalingam
         - postrational
         - wschin
