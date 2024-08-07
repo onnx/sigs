@@ -12,8 +12,9 @@ Feedback and contributions are welcome.
 Please sign up at https://slack.lfai.foundation/ and join [onnx-modelzoo](https://lfaifoundation.slack.com/archives/C018RE2BRBL) channel.
 
 # SIG Leads
-* Ramakrishnan Sivakumar (AMD): April 2023 - Current
+* Daniel Holanda Noronha (AMD): July 2024 - Current
 * Javier Martinez (Intel): March 2024 - Current
+* Ramakrishnan Sivakumar (AMD): April 2023 - July 2024
 * Jacky Chen (Microsoft): February 2022 - November 2023
 * Wenbing Li (Microsoft): September 2020 - February 2022
 * Vinitra Swamy (Microsoft): January 2020 - September 2020
