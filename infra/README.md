@@ -12,9 +12,12 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-archinfra](https
 
 # SIG Leads
 
-* Liqun Fu (Microsoft)
-* Ke Zhang (Ant)
+* Andreas Fehlner (TRUMPF Laser) 01.2025 - Current)
+* Xavier Dupre (Microsoft) 01.2025 - Current)
 
+# Former SIG Leads
+* Liqun Fu (Microsoft) XX.XXXX - 12.2024
+* Ke Zhang (Ant) XX.XXXX - 12.2024
 
 # Logistics
 
