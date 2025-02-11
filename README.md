@@ -16,8 +16,6 @@ The current list of Contributors and Approvers in the SIGs are listed in the [CO
 
 ## Current SIGs
 
-Contact e-mail addresses of SIG leads can be found [here](https://wiki.lfaidata.foundation/pages/viewpage.action?pageId=18481196).
-
 | Name      | Responsibilities    |
 | ------------------ | ------------- |
 | [Architecture & Infra](infra) | Defining and maintaining the core ONNX format, the build and CI/CD systems for ONNX repositories, publishing release packages for ONNX, the onnx-docker repository, and creating tools to help integrate with and test against the ONNX standard. This SIG is also the defacto owner of files in the main ONNX repository unless explicitly owned by another SIG. |
