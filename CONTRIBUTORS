@@ -176,7 +176,6 @@ SIG-chairs:
     - freddychiu
     - gramalingam
     - javier-intel
-    - jcwchen
     - justinchuby
     - kevinch-nv
     - philass
@@ -185,8 +184,11 @@ SIG-chairs:
     - xadupre
 
 WG-chairs:
+    - ericjenn    
     - jantonguirao
-
+    - kevinch-nv
+    - gramalingam
+   
 Steering-Committee:
     - andife
     - AlexandreEichenberger
