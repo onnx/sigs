@@ -36,6 +36,7 @@ SIG-archinfra:
     releasemgrs:
         - yuanyao-nv
     approvers:
+        - andife
         - etiotto
         - gramalingam
         - jcwchen
@@ -170,6 +171,7 @@ SIG-optimizations:
         - XuehaoSun
 
 SIG-chairs:
+    - andife
     - AlexandreEichenberger
     - freddychiu
     - gramalingam
@@ -177,11 +179,10 @@ SIG-chairs:
     - jcwchen
     - justinchuby
     - kevinch-nv
-    - linkerzhang
-    - liqunfu
     - philass
     - postrational
     - thiagocrepaldi
+    - xadupre
 
 WG-chairs:
     - jantonguirao
