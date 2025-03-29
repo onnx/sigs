@@ -9,7 +9,7 @@ SIG artifacts, including membership list and meeting notes, are stored in this r
 ## Participating
 If you are interested in participating, please [join the discussion](https://lfaifoundation.slack.com/archives/C016UBNDBL2") in the respective slack channel.
 
-You can find the schedule of SIG meetings on the [LF AI & Data calendar](https://wiki.lfai.foundation/pages/viewpage.action?pageId=18481196)
+You can find the schedule of SIG meetings on the [LFX calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lfai-onnx?view=month)
 
 ## SIG members
 The current list of Contributors and Approvers in the SIGs are listed in the [CONTRIBUTORS](CONTRIBUTORS) file. The file also describes the process for updating the list.
