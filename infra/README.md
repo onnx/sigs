@@ -23,6 +23,11 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-archinfra](https
 * Meeting annoucement will be posted in our Slack channel.
 * Feedbacks and topic request are welcome by all.
 
+# SIG Meeting Info
+
+* Meeting is on the 2nd Tuesday of the month at 10 pm CEST
+* Access link could be found at: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfai-onnx?view=month 
+
 # Discussion
 
 * Slack channel https://lfaifoundation.slack.com/archives/C018Y2QG7V2
