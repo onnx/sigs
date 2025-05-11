@@ -1,5 +1,18 @@
 # Tuesday May 13, 2025 at 22 CEST
 
 ## Agenda
-* Release review
+* Release 1.18 review
 * Release process optimization
+* Python 3.14
+* ONNX 1.19 ? 
+
+### ONNX 1.19 ##
+
+### Release process optimization ###
+
+
+
+### Python 3.14 support ###
+* Python 3.14 releases beginning of October (https://peps.python.org/pep-0745/) 
+  * Andreas: I would prefer to release a version with wheels immediately afterwards
+  * Target version: 1.19.0? or do we want to make a version before that?
