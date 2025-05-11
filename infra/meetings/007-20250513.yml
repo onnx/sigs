@@ -10,6 +10,13 @@
 
 ### Release process optimization ###
 
+```mermaid
+graph TD
+    A[Release Cut-Out] --> B[Stabilization<br>Week 1]
+    B --> C[RC1<br>Week 2-3]
+    C --> D[RC2<br>Week 4-5]
+    D --> E[Final Release<br>Week 6]
+ ```
 
 
 ### Python 3.14 support ###
