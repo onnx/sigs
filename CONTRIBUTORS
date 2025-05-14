@@ -35,6 +35,8 @@ SIG-archinfra:
     - natke
     releasemgrs:
         - yuanyao-nv
+    onnx-ir:
+        - titaiwangms
     approvers:
         - andife
         - etiotto
