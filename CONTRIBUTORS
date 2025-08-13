@@ -39,6 +39,7 @@ SIG-archinfra:
         - titaiwangms
     approvers:
         - andife
+        - daquexian
         - etiotto
         - gramalingam
         - jcwchen
@@ -46,7 +47,7 @@ SIG-archinfra:
         - linkerzhang
         - liqunfu
         - prasanthpul
-        - daquexian
+        - titaiwangms
         - xadupre
 
 SIG-operators:
