@@ -12,6 +12,7 @@
 SIG-archinfra:
     - abock
     - askhade
+    - andife
     - annajung
     - chinhuang007
     - chudegao
@@ -28,8 +29,7 @@ SIG-archinfra:
     - wschin
     - xuzijian629
     - yuanbyu
-    - yuslepukhin
-    - andife
+    - yuslepukhin    
     - garymm
     - take-cheeze
     - natke
@@ -39,14 +39,12 @@ SIG-archinfra:
         - titaiwangms
     approvers:
         - andife
+        - cbourjau
         - daquexian
         - etiotto
         - gramalingam
-        - jcwchen
         - justinchuby
-        - linkerzhang
         - liqunfu
-        - prasanthpul
         - titaiwangms
         - xadupre
 
@@ -187,6 +185,7 @@ SIG-optimizations:
 SIG-chairs:
     - andife
     - AlexandreEichenberger
+    - cbourjau
     - freddychiu
     - gramalingam
     - javier-intel
