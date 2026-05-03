@@ -14,6 +14,7 @@ SIG-archinfra:
     - askhade
     - andife
     - annajung
+    - cyyever
     - chinhuang007
     - chudegao
     - faxu
@@ -34,12 +35,13 @@ SIG-archinfra:
     - take-cheeze
     - natke
     releasemgrs:
-        - yuanyao-nv
+        - cbourjau
     onnx-ir:
         - titaiwangms
     approvers:
         - andife
         - cbourjau
+        - cyyever
         - daquexian
         - etiotto
         - gramalingam
