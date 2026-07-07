@@ -43,10 +43,8 @@ SIG-archinfra:
         - cbourjau
         - cyyever
         - daquexian
-        - etiotto
         - gramalingam
         - justinchuby
-        - liqunfu
         - titaiwangms
         - xadupre
 
@@ -209,5 +207,6 @@ Steering-Committee:
     - AlexandreEichenberger
     - mk-nvidia
     - gramalingam
-    - intas1
+    - javier-intel
+
 
