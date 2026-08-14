@@ -11,6 +11,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-operators](https
 
 * Ganesan "Rama" Ramalingam (Microsoft)
 * Michal Karzynski (Intel)
+* Yamini Nimmagadda (Intel)
 
 # Logistics
 

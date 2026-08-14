@@ -49,33 +49,24 @@ SIG-archinfra:
         - xadupre
 
 SIG-operators:
-    - askhade
-    - bowenbao
     - cbourjau
     - fdwr
-    - hariharans29
-    - liuyu21
     - matteosal
-    - p-wysocki
     - shinh
-    - shubhambhokare1
     - skottmckay
-    - thiagocrepaldi
-    - yufenglee
     - jantonguirao
     - xuzijian629
     - jbachurski
     - smk2007
     - philass
-    - sechkova
     - AlexandreEichenberger
     approvers:
         - daquexian
         - justinchuby
         - gramalingam
         - postrational
-        - wschin
         - xadupre
+        - ynimmaga
         - yuanyao-nv
 
 SIG-converters:
@@ -193,14 +184,16 @@ SIG-chairs:
     - kevinch-nv
     - philass
     - postrational
-    - thiagocrepaldi
     - xadupre
+    - ynimmaga
 
 WG-chairs:
     - ericjenn    
-    - jantonguirao
-    - kevinch-nv
     - gramalingam
+    - ynimmaga
+    - javier-intel
+    - bparbhu
+    - craigacp
    
 Steering-Committee:
     - andife
