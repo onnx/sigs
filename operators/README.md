@@ -10,7 +10,7 @@ Please sign up at https://slack.lfai.foundation/ and join [onnx-operators](https
 # SIG Leads
 
 * Ganesan "Rama" Ramalingam (Microsoft)
-* Michal Karzynski (Intel)
+* Michal Karzynski
 * Yamini Nimmagadda (Intel)
 
 # Logistics
