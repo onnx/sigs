@@ -73,12 +73,13 @@ SIG-converters:
     - tjingrant
     - TomWildenhain-Microsoft
     approvers:
+        - andife
         - guschmue
+        - justinchuby
         - kevinch-nv
         - wenbingl
         - wschin
         - xadupre
-        - justinchuby
 
 SIG-modelstutorials:
     - airMeng
