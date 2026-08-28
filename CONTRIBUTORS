@@ -70,6 +70,7 @@ SIG-operators:
         - yuanyao-nv
 
 SIG-converters:
+    - ryol8888
     - tjingrant
     - TomWildenhain-Microsoft
     approvers:
@@ -77,6 +78,7 @@ SIG-converters:
         - guschmue
         - justinchuby
         - kevinch-nv
+        - ryol8888
         - wenbingl
         - wschin
         - xadupre
